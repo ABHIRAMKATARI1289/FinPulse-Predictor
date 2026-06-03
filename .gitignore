@@ -2,7 +2,7 @@ venv/
 __pycache__/
 *.pyc
 .env
-*.pkl
 mlruns/
 data/
 .DS_Store
+
