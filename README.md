@@ -1,6 +1,10 @@
 # FinPulse — Stock Movement Predictor
 
-End-to-end ML system that predicts short-term NSE stock price direction using FinBERT sentiment analysis on financial news + technical indicators, deployed as a REST API with a live Streamlit dashboard.
+End-to-end ML system that predicts short-term NSE stock price direction using FinBERT 
+sentiment analysis on financial news + technical indicators, deployed as a REST API 
+with a live Streamlit dashboard.
+
+🚀 Live Demo: Live Demo: https://finpulse-predictor.streamlit.app/
 
 ## Tech Stack
 
