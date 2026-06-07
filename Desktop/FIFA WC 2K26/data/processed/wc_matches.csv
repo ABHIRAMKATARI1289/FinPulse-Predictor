@@ -1,0 +1,853 @@
+year,date,stage,is_knockout,home_team,away_team,home_goals,away_goals,outcome,attendance
+1930,1930-07-13 15:00:00,Group 1,0,France,Mexico,4.0,1.0,home_win,4444.0
+1930,1930-07-13 15:00:00,Group 4,0,USA,Belgium,3.0,0.0,home_win,18346.0
+1930,1930-07-14 12:45:00,Group 2,0,Serbia,Brazil,2.0,1.0,home_win,24059.0
+1930,1930-07-14 14:50:00,Group 3,0,Romania,Peru,3.0,1.0,home_win,2549.0
+1930,1930-07-15 16:00:00,Group 1,0,Argentina,France,1.0,0.0,home_win,23409.0
+1930,1930-07-16 14:45:00,Group 1,0,Chile,Mexico,3.0,0.0,home_win,9249.0
+1930,1930-07-17 12:45:00,Group 2,0,Serbia,Bolivia,4.0,0.0,home_win,18306.0
+1930,1930-07-17 14:45:00,Group 4,0,USA,Paraguay,3.0,0.0,home_win,18306.0
+1930,1930-07-18 14:30:00,Group 3,0,Uruguay,Peru,1.0,0.0,home_win,57735.0
+1930,1930-07-19 12:50:00,Group 1,0,Chile,France,1.0,0.0,home_win,2000.0
+1930,1930-07-19 15:00:00,Group 1,0,Argentina,Mexico,6.0,3.0,home_win,42100.0
+1930,1930-07-20 13:00:00,Group 2,0,Brazil,Bolivia,4.0,0.0,home_win,25466.0
+1930,1930-07-20 15:00:00,Group 4,0,Paraguay,Belgium,1.0,0.0,home_win,12000.0
+1930,1930-07-21 14:50:00,Group 3,0,Uruguay,Romania,4.0,0.0,home_win,70022.0
+1930,1930-07-22 14:45:00,Group 1,0,Argentina,Chile,3.0,1.0,home_win,41459.0
+1930,1930-07-26 14:45:00,Semi-finals,1,Argentina,USA,6.0,1.0,home_win,72886.0
+1930,1930-07-27 14:45:00,Semi-finals,1,Uruguay,Serbia,6.0,1.0,home_win,79867.0
+1930,1930-07-30 14:15:00,Final,1,Uruguay,Argentina,4.0,2.0,home_win,68346.0
+1934,1934-05-27 16:30:00,Preliminary round,1,Austria,France,3.0,2.0,home_win,16000.0
+1934,1934-05-27 16:30:00,Preliminary round,1,Hungary,Egypt,4.0,2.0,home_win,9000.0
+1934,1934-05-27 16:30:00,Preliminary round,1,Switzerland,Netherlands,3.0,2.0,home_win,33000.0
+1934,1934-05-27 16:30:00,Preliminary round,1,Sweden,Argentina,3.0,2.0,home_win,14000.0
+1934,1934-05-27 16:30:00,Preliminary round,1,Germany,Belgium,5.0,2.0,home_win,8000.0
+1934,1934-05-27 16:30:00,Preliminary round,1,Spain,Brazil,3.0,1.0,home_win,21000.0
+1934,1934-05-27 16:30:00,Preliminary round,1,Italy,USA,7.0,1.0,home_win,25000.0
+1934,1934-05-27 16:30:00,Preliminary round,1,Czech Republic,Romania,2.0,1.0,home_win,9000.0
+1934,1934-05-31 16:30:00,Quarter-finals,1,Czech Republic,Switzerland,3.0,2.0,home_win,12000.0
+1934,1934-05-31 16:30:00,Quarter-finals,1,Germany,Sweden,2.0,1.0,home_win,3000.0
+1934,1934-05-31 16:30:00,Quarter-finals,1,Italy,Spain,1.0,1.0,draw,35000.0
+1934,1934-05-31 16:30:00,Quarter-finals,1,Austria,Hungary,2.0,1.0,home_win,23000.0
+1934,1934-06-01 16:30:00,Quarter-finals,1,Italy,Spain,1.0,0.0,home_win,43000.0
+1934,1934-06-03 16:30:00,Semi-finals,1,Italy,Austria,1.0,0.0,home_win,35000.0
+1934,1934-06-03 16:30:00,Semi-finals,1,Czech Republic,Germany,3.0,1.0,home_win,15000.0
+1934,1934-06-07 18:00:00,Match for third place,1,Germany,Austria,3.0,2.0,home_win,7000.0
+1934,1934-06-10 17:30:00,Final,1,Italy,Czech Republic,2.0,1.0,home_win,55000.0
+1938,1938-06-04 17:00:00,First round,1,Switzerland,Germany,1.0,1.0,draw,27152.0
+1938,1938-06-05 17:00:00,First round,1,Hungary,Dutch East Indies,6.0,0.0,home_win,9000.0
+1938,1938-06-05 17:00:00,First round,1,France,Belgium,3.0,1.0,home_win,30454.0
+1938,1938-06-05 17:00:00,First round,1,Cuba,Romania,3.0,3.0,draw,7000.0
+1938,1938-06-05 17:00:00,First round,1,Italy,Norway,2.0,1.0,home_win,19000.0
+1938,1938-06-05 17:30:00,First round,1,Brazil,Poland,6.0,5.0,home_win,13452.0
+1938,1938-06-05 18:30:00,First round,1,Czech Republic,Netherlands,3.0,0.0,home_win,11000.0
+1938,1938-06-09 18:00:00,First round,1,Cuba,Romania,2.0,1.0,home_win,8000.0
+1938,1938-06-09 18:00:00,First round,1,Switzerland,Germany,4.0,2.0,home_win,20025.0
+1938,1938-06-12 17:00:00,Quarter-finals,1,Brazil,Czech Republic,1.0,1.0,draw,22021.0
+1938,1938-06-12 17:00:00,Quarter-finals,1,Hungary,Switzerland,2.0,0.0,home_win,15000.0
+1938,1938-06-12 17:00:00,Quarter-finals,1,Sweden,Cuba,8.0,0.0,home_win,7000.0
+1938,1938-06-12 17:00:00,Quarter-finals,1,Italy,France,3.0,1.0,home_win,58455.0
+1938,1938-06-14 18:00:00,Quarter-finals,1,Brazil,Czech Republic,2.0,1.0,home_win,18141.0
+1938,1938-06-16 18:00:00,Semi-finals,1,Hungary,Sweden,5.0,1.0,home_win,20000.0
+1938,1938-06-16 18:00:00,Semi-finals,1,Italy,Brazil,2.0,1.0,home_win,33000.0
+1938,1938-06-19 17:00:00,Match for third place,1,Brazil,Sweden,4.0,2.0,home_win,12000.0
+1938,1938-06-19 17:00:00,Final,1,Italy,Hungary,4.0,2.0,home_win,45000.0
+1950,1950-06-24 15:00:00,Group 1,0,Brazil,Mexico,4.0,0.0,home_win,81649.0
+1950,1950-06-25 15:00:00,Group 2,0,England,Chile,2.0,0.0,home_win,29703.0
+1950,1950-06-25 15:00:00,Group 2,0,Spain,USA,3.0,1.0,home_win,9511.0
+1950,1950-06-25 15:00:00,Group 3,0,Sweden,Italy,3.0,2.0,home_win,36502.0
+1950,1950-06-25 15:00:00,Group 1,0,Serbia,Switzerland,3.0,0.0,home_win,7336.0
+1950,1950-06-28 15:00:00,Group 1,0,Brazil,Switzerland,2.0,2.0,draw,42032.0
+1950,1950-06-28 15:00:00,Group 1,0,Serbia,Mexico,4.0,1.0,home_win,11078.0
+1950,1950-06-29 15:00:00,Group 2,0,Spain,Chile,2.0,0.0,home_win,19790.0
+1950,1950-06-29 15:30:00,Group 3,0,Sweden,Paraguay,2.0,2.0,draw,7903.0
+1950,1950-06-29 15:00:00,Group 2,0,USA,England,1.0,0.0,home_win,10151.0
+1950,1950-07-01 15:00:00,Group 1,0,Brazil,Serbia,2.0,0.0,home_win,142429.0
+1950,1950-07-02 15:00:00,Group 2,0,Spain,England,1.0,0.0,home_win,74462.0
+1950,1950-07-02 15:00:00,Group 3,0,Italy,Paraguay,2.0,0.0,home_win,25811.0
+1950,1950-07-02 15:00:00,Group 4,0,Uruguay,Bolivia,8.0,0.0,home_win,5284.0
+1950,1950-07-02 15:40:00,Group 1,0,Switzerland,Mexico,2.0,1.0,home_win,3580.0
+1950,1950-07-02 15:00:00,Group 2,0,Chile,USA,5.0,2.0,home_win,8501.0
+1950,1950-07-09 15:00:00,Group 6,0,Uruguay,Spain,2.0,2.0,draw,44802.0
+1950,1950-07-09 15:00:00,Group 6,0,Brazil,Sweden,7.0,1.0,home_win,138886.0
+1950,1950-07-13 15:00:00,Group 6,0,Brazil,Spain,6.0,1.0,home_win,152772.0
+1950,1950-07-13 15:00:00,Group 6,0,Uruguay,Sweden,3.0,2.0,home_win,7987.0
+1950,1950-07-16 15:00:00,Group 6,0,Sweden,Spain,3.0,1.0,home_win,11227.0
+1950,1950-07-16 15:00:00,Group 6,0,Uruguay,Brazil,2.0,1.0,home_win,173850.0
+1954,1954-06-16 18:00:00,Group 3,0,Uruguay,Czech Republic,2.0,0.0,home_win,20500.0
+1954,1954-06-16 18:00:00,Group 3,0,Austria,Scotland,1.0,0.0,home_win,25000.0
+1954,1954-06-16 18:00:00,Group 1,0,Brazil,Mexico,5.0,0.0,home_win,13470.0
+1954,1954-06-16 18:00:00,Group 1,0,Serbia,France,1.0,0.0,home_win,16000.0
+1954,1954-06-17 18:00:00,Group 2,0,Germany FR,Turkey,4.0,1.0,home_win,28000.0
+1954,1954-06-17 18:00:00,Group 2,0,Hungary,South Korea,9.0,0.0,home_win,13000.0
+1954,1954-06-17 18:10:00,Group 4,0,England,Belgium,4.0,4.0,draw,14000.0
+1954,1954-06-17 17:50:00,Group 4,0,Switzerland,Italy,2.0,1.0,home_win,43000.0
+1954,1954-06-19 16:50:00,Group 3,0,Uruguay,Scotland,7.0,0.0,home_win,34000.0
+1954,1954-06-19 17:00:00,Group 3,0,Austria,Czech Republic,5.0,0.0,home_win,26000.0
+1954,1954-06-19 17:10:00,Group 1,0,France,Mexico,3.0,2.0,home_win,19000.0
+1954,1954-06-19 17:00:00,Group 1,0,Brazil,Serbia,1.0,1.0,draw,24637.0
+1954,1954-06-20 16:50:00,Group 2,0,Hungary,Germany FR,8.0,3.0,home_win,56000.0
+1954,1954-06-20 17:00:00,Group 2,0,Turkey,South Korea,7.0,0.0,home_win,4000.0
+1954,1954-06-20 17:10:00,Group 4,0,England,Switzerland,2.0,0.0,home_win,43500.0
+1954,1954-06-20 17:00:00,Group 4,0,Italy,Belgium,4.0,1.0,home_win,24000.0
+1954,1954-06-23 18:00:00,Group 2,0,Germany FR,Turkey,7.0,2.0,home_win,17000.0
+1954,1954-06-23 18:00:00,Group 4,0,Switzerland,Italy,4.0,1.0,home_win,30000.0
+1954,1954-06-26 17:00:00,Quarter-finals,1,Uruguay,England,4.0,2.0,home_win,28000.0
+1954,1954-06-26 17:00:00,Quarter-finals,1,Austria,Switzerland,7.0,5.0,home_win,35000.0
+1954,1954-06-27 17:00:00,Quarter-finals,1,Germany FR,Serbia,2.0,0.0,home_win,17000.0
+1954,1954-06-27 17:00:00,Quarter-finals,1,Hungary,Brazil,4.0,2.0,home_win,40000.0
+1954,1954-06-30 18:00:00,Semi-finals,1,Germany FR,Austria,6.0,1.0,home_win,58000.0
+1954,1954-06-30 18:00:00,Semi-finals,1,Hungary,Uruguay,4.0,2.0,home_win,45000.0
+1954,1954-07-03 17:00:00,Match for third place,1,Austria,Uruguay,3.0,1.0,home_win,32000.0
+1954,1954-07-04 17:00:00,Final,1,Germany FR,Hungary,3.0,2.0,home_win,62500.0
+1958,1958-06-08 14:00:00,Group 3,0,Sweden,Mexico,3.0,0.0,home_win,34107.0
+1958,1958-06-08 19:00:00,Group 4,0,Russia,England,2.0,2.0,draw,49348.0
+1958,1958-06-08 19:00:00,Group 1,0,Argentina,Germany FR,1.0,3.0,away_win,31156.0
+1958,1958-06-08 19:00:00,Group 3,0,Hungary,Wales,1.0,1.0,draw,15343.0
+1958,1958-06-08 19:00:00,Group 2,0,France,Paraguay,7.0,3.0,home_win,16518.0
+1958,1958-06-08 19:00:00,Group 2,0,Serbia,Scotland,1.0,1.0,draw,9591.0
+1958,1958-06-08 19:00:00,Group 4,0,Brazil,Austria,3.0,0.0,home_win,17788.0
+1958,1958-06-08 19:00:00,Group 1,0,Northern Ireland,Czech Republic,1.0,0.0,home_win,10647.0
+1958,1958-06-11 19:00:00,Group 4,0,Brazil,England,0.0,0.0,draw,40895.0
+1958,1958-06-11 19:00:00,Group 3,0,Mexico,Wales,1.0,1.0,draw,15150.0
+1958,1958-06-11 19:00:00,Group 2,0,Paraguay,Scotland,3.0,2.0,home_win,11665.0
+1958,1958-06-11 19:00:00,Group 2,0,Serbia,France,3.0,2.0,home_win,12217.0
+1958,1958-06-11 19:00:00,Group 4,0,Russia,Austria,2.0,0.0,home_win,21239.0
+1958,1958-06-11 19:00:00,Group 1,0,Germany FR,Czech Republic,2.0,2.0,draw,25000.0
+1958,1958-06-11 19:00:00,Group 1,0,Argentina,Northern Ireland,3.0,1.0,home_win,14174.0
+1958,1958-06-12 19:00:00,Group 3,0,Sweden,Hungary,2.0,1.0,home_win,38850.0
+1958,1958-06-15 14:00:00,Group 3,0,Sweden,Wales,0.0,0.0,draw,30287.0
+1958,1958-06-15 19:00:00,Group 4,0,Brazil,Russia,2.0,0.0,home_win,50928.0
+1958,1958-06-15 19:00:00,Group 1,0,Germany FR,Northern Ireland,2.0,2.0,draw,21990.0
+1958,1958-06-15 19:00:00,Group 3,0,Hungary,Mexico,4.0,0.0,home_win,13300.0
+1958,1958-06-15 19:00:00,Group 2,0,Paraguay,Serbia,3.0,3.0,draw,13103.0
+1958,1958-06-15 19:00:00,Group 2,0,France,Scotland,2.0,1.0,home_win,13554.0
+1958,1958-06-15 19:00:00,Group 4,0,England,Austria,2.0,2.0,draw,15872.0
+1958,1958-06-15 19:00:00,Group 1,0,Czech Republic,Argentina,6.0,1.0,home_win,16418.0
+1958,1958-06-17 19:00:00,Group 4,0,Russia,England,1.0,0.0,home_win,23182.0
+1958,1958-06-17 19:00:00,Group 1,0,Northern Ireland,Czech Republic,2.0,1.0,home_win,6196.0
+1958,1958-06-17 19:00:00,Group 3,0,Wales,Hungary,2.0,1.0,home_win,2823.0
+1958,1958-06-19 19:00:00,Quarter-finals,1,Brazil,Wales,1.0,0.0,home_win,25923.0
+1958,1958-06-19 19:00:00,Quarter-finals,1,Germany FR,Serbia,1.0,0.0,home_win,20055.0
+1958,1958-06-19 19:00:00,Quarter-finals,1,Sweden,Russia,2.0,0.0,home_win,31900.0
+1958,1958-06-19 19:00:00,Quarter-finals,1,France,Northern Ireland,4.0,0.0,home_win,11800.0
+1958,1958-06-24 19:00:00,Semi-finals,1,Sweden,Germany FR,3.0,1.0,home_win,49471.0
+1958,1958-06-24 19:00:00,Semi-finals,1,Brazil,France,5.0,2.0,home_win,27100.0
+1958,1958-06-28 17:00:00,Match for third place,1,France,Germany FR,6.0,3.0,home_win,32483.0
+1958,1958-06-29 15:00:00,Final,1,Brazil,Sweden,5.0,2.0,home_win,49737.0
+1962,1962-05-30 15:00:00,Group 1,0,Uruguay,Colombia,2.0,1.0,home_win,7908.0
+1962,1962-05-30 15:00:00,Group 3,0,Brazil,Mexico,2.0,0.0,home_win,10484.0
+1962,1962-05-30 15:00:00,Group 4,0,Argentina,Bulgaria,1.0,0.0,home_win,7134.0
+1962,1962-05-30 15:00:00,Group 2,0,Chile,Switzerland,3.0,1.0,home_win,65006.0
+1962,1962-05-31 15:00:00,Group 1,0,Russia,Serbia,2.0,0.0,home_win,9622.0
+1962,1962-05-31 15:00:00,Group 3,0,Czech Republic,Spain,1.0,0.0,home_win,12700.0
+1962,1962-05-31 15:00:00,Group 4,0,Hungary,England,2.0,1.0,home_win,7938.0
+1962,1962-05-31 15:00:00,Group 2,0,Germany FR,Italy,0.0,0.0,draw,65440.0
+1962,1962-06-02 15:00:00,Group 1,0,Serbia,Uruguay,3.0,1.0,home_win,8829.0
+1962,1962-06-02 15:00:00,Group 3,0,Brazil,Czech Republic,0.0,0.0,draw,14903.0
+1962,1962-06-02 15:00:00,Group 4,0,England,Argentina,3.0,1.0,home_win,9794.0
+1962,1962-06-02 15:00:00,Group 2,0,Chile,Italy,2.0,0.0,home_win,66057.0
+1962,1962-06-03 15:00:00,Group 1,0,Russia,Colombia,4.0,4.0,draw,8040.0
+1962,1962-06-03 15:00:00,Group 3,0,Spain,Mexico,1.0,0.0,home_win,11875.0
+1962,1962-06-03 15:00:00,Group 4,0,Hungary,Bulgaria,6.0,1.0,home_win,7442.0
+1962,1962-06-03 15:00:00,Group 2,0,Germany FR,Switzerland,2.0,1.0,home_win,64922.0
+1962,1962-06-06 15:00:00,Group 1,0,Russia,Uruguay,2.0,1.0,home_win,9973.0
+1962,1962-06-06 15:00:00,Group 3,0,Brazil,Spain,2.0,1.0,home_win,18715.0
+1962,1962-06-06 15:00:00,Group 4,0,Hungary,Argentina,0.0,0.0,draw,7945.0
+1962,1962-06-06 15:00:00,Group 2,0,Germany FR,Chile,2.0,0.0,home_win,67224.0
+1962,1962-06-07 15:00:00,Group 1,0,Serbia,Colombia,5.0,0.0,home_win,7167.0
+1962,1962-06-07 15:00:00,Group 3,0,Mexico,Czech Republic,3.0,1.0,home_win,10648.0
+1962,1962-06-07 15:00:00,Group 4,0,England,Bulgaria,0.0,0.0,draw,5700.0
+1962,1962-06-07 15:00:00,Group 2,0,Italy,Switzerland,3.0,0.0,home_win,59828.0
+1962,1962-06-10 14:30:00,Quarter-finals,1,Chile,Russia,2.0,1.0,home_win,17268.0
+1962,1962-06-10 14:30:00,Quarter-finals,1,Brazil,England,3.0,1.0,home_win,17736.0
+1962,1962-06-10 14:30:00,Quarter-finals,1,Czech Republic,Hungary,1.0,0.0,home_win,11690.0
+1962,1962-06-10 14:30:00,Quarter-finals,1,Serbia,Germany FR,1.0,0.0,home_win,63324.0
+1962,1962-06-13 14:30:00,Semi-finals,1,Czech Republic,Serbia,3.0,1.0,home_win,5890.0
+1962,1962-06-13 14:30:00,Semi-finals,1,Brazil,Chile,4.0,2.0,home_win,76594.0
+1962,1962-06-16 14:30:00,Match for third place,1,Chile,Serbia,1.0,0.0,home_win,66697.0
+1962,1962-06-17 14:30:00,Final,1,Brazil,Czech Republic,3.0,1.0,home_win,68679.0
+1966,1966-07-11 19:30:00,Group 1,0,England,Uruguay,0.0,0.0,draw,87148.0
+1966,1966-07-12 19:30:00,Group 2,0,Germany FR,Switzerland,5.0,0.0,home_win,36127.0
+1966,1966-07-12 19:30:00,Group 3,0,Brazil,Bulgaria,2.0,0.0,home_win,47308.0
+1966,1966-07-12 19:30:00,Group 4,0,Russia,North Korea,3.0,0.0,home_win,23006.0
+1966,1966-07-13 19:30:00,Group 1,0,France,Mexico,1.0,1.0,draw,69237.0
+1966,1966-07-13 19:30:00,Group 3,0,Portugal,Hungary,3.0,1.0,home_win,29886.0
+1966,1966-07-13 19:30:00,Group 2,0,Argentina,Spain,2.0,1.0,home_win,42738.0
+1966,1966-07-13 19:30:00,Group 4,0,Italy,Chile,2.0,0.0,home_win,27199.0
+1966,1966-07-15 19:30:00,Group 1,0,Uruguay,France,2.0,1.0,home_win,45662.0
+1966,1966-07-15 19:30:00,Group 2,0,Spain,Switzerland,2.0,1.0,home_win,32028.0
+1966,1966-07-15 19:30:00,Group 3,0,Hungary,Brazil,3.0,1.0,home_win,51387.0
+1966,1966-07-15 19:30:00,Group 4,0,North Korea,Chile,1.0,1.0,draw,13792.0
+1966,1966-07-16 15:00:00,Group 3,0,Portugal,Bulgaria,3.0,0.0,home_win,25438.0
+1966,1966-07-16 15:00:00,Group 2,0,Germany FR,Argentina,0.0,0.0,draw,46587.0
+1966,1966-07-16 15:00:00,Group 4,0,Russia,Italy,1.0,0.0,home_win,27793.0
+1966,1966-07-16 19:30:00,Group 1,0,England,Mexico,2.0,0.0,home_win,92570.0
+1966,1966-07-19 16:30:00,Group 1,0,Uruguay,Mexico,0.0,0.0,draw,61112.0
+1966,1966-07-19 19:30:00,Group 2,0,Argentina,Switzerland,2.0,0.0,home_win,32127.0
+1966,1966-07-19 19:30:00,Group 3,0,Portugal,Brazil,3.0,1.0,home_win,58479.0
+1966,1966-07-19 19:30:00,Group 4,0,North Korea,Italy,1.0,0.0,home_win,17829.0
+1966,1966-07-20 19:30:00,Group 1,0,England,France,2.0,0.0,home_win,98270.0
+1966,1966-07-20 19:30:00,Group 3,0,Hungary,Bulgaria,3.0,1.0,home_win,24129.0
+1966,1966-07-20 19:30:00,Group 2,0,Germany FR,Spain,2.0,1.0,home_win,42187.0
+1966,1966-07-20 19:30:00,Group 4,0,Russia,Chile,2.0,1.0,home_win,16027.0
+1966,1966-07-23 15:00:00,Quarter-finals,1,England,Argentina,1.0,0.0,home_win,90584.0
+1966,1966-07-23 15:00:00,Quarter-finals,1,Germany FR,Uruguay,4.0,0.0,home_win,40007.0
+1966,1966-07-23 15:00:00,Quarter-finals,1,Russia,Hungary,2.0,1.0,home_win,26844.0
+1966,1966-07-23 15:00:00,Quarter-finals,1,Portugal,North Korea,5.0,3.0,home_win,40248.0
+1966,1966-07-25 19:30:00,Semi-finals,1,Germany FR,Russia,2.0,1.0,home_win,38273.0
+1966,1966-07-26 19:30:00,Semi-finals,1,England,Portugal,2.0,1.0,home_win,94493.0
+1966,1966-07-28 19:30:00,Match for third place,1,Portugal,Russia,2.0,1.0,home_win,87696.0
+1966,1966-07-30 15:00:00,Final,1,England,Germany FR,4.0,2.0,home_win,96924.0
+1970,1970-05-31 12:00:00,Group 1,0,Mexico,Russia,0.0,0.0,draw,107160.0
+1970,1970-06-02 16:00:00,Group 2,0,Uruguay,Israel,2.0,0.0,home_win,20654.0
+1970,1970-06-02 16:00:00,Group 4,0,Peru,Bulgaria,3.0,2.0,home_win,13765.0
+1970,1970-06-02 16:00:00,Group 3,0,England,Romania,1.0,0.0,home_win,50560.0
+1970,1970-06-03 16:00:00,Group 2,0,Italy,Sweden,1.0,0.0,home_win,13433.0
+1970,1970-06-03 16:00:00,Group 4,0,Germany FR,Morocco,2.0,1.0,home_win,12942.0
+1970,1970-06-03 16:00:00,Group 3,0,Brazil,Czech Republic,4.0,1.0,home_win,52897.0
+1970,1970-06-03 16:00:00,Group 1,0,Belgium,El Salvador,3.0,0.0,home_win,92205.0
+1970,1970-06-06 16:00:00,Group 2,0,Uruguay,Italy,0.0,0.0,draw,29968.0
+1970,1970-06-06 16:00:00,Group 4,0,Peru,Morocco,3.0,0.0,home_win,13537.0
+1970,1970-06-06 16:00:00,Group 3,0,Romania,Czech Republic,2.0,1.0,home_win,56818.0
+1970,1970-06-06 16:00:00,Group 1,0,Russia,Belgium,4.0,1.0,home_win,95261.0
+1970,1970-06-07 12:00:00,Group 2,0,Sweden,Israel,1.0,1.0,draw,9624.0
+1970,1970-06-07 12:00:00,Group 4,0,Germany FR,Bulgaria,5.0,2.0,home_win,12710.0
+1970,1970-06-07 12:00:00,Group 3,0,Brazil,England,1.0,0.0,home_win,66843.0
+1970,1970-06-07 12:00:00,Group 1,0,Mexico,El Salvador,4.0,0.0,home_win,103058.0
+1970,1970-06-10 16:00:00,Group 2,0,Sweden,Uruguay,1.0,0.0,home_win,18163.0
+1970,1970-06-10 16:00:00,Group 4,0,Germany FR,Peru,3.0,1.0,home_win,17875.0
+1970,1970-06-10 16:00:00,Group 3,0,Brazil,Romania,3.0,2.0,home_win,50804.0
+1970,1970-06-10 16:00:00,Group 1,0,Russia,El Salvador,2.0,0.0,home_win,89979.0
+1970,1970-06-11 16:00:00,Group 2,0,Italy,Israel,0.0,0.0,draw,9890.0
+1970,1970-06-11 16:00:00,Group 4,0,Bulgaria,Morocco,1.0,1.0,draw,12299.0
+1970,1970-06-11 16:00:00,Group 3,0,England,Czech Republic,1.0,0.0,home_win,49292.0
+1970,1970-06-11 16:00:00,Group 1,0,Mexico,Belgium,1.0,0.0,home_win,108192.0
+1970,1970-06-14 12:00:00,Quarter-finals,1,Italy,Mexico,4.0,1.0,home_win,26851.0
+1970,1970-06-14 12:00:00,Quarter-finals,1,Germany FR,England,3.0,2.0,home_win,23357.0
+1970,1970-06-14 12:00:00,Quarter-finals,1,Brazil,Peru,4.0,2.0,home_win,54233.0
+1970,1970-06-14 12:00:00,Quarter-finals,1,Uruguay,Russia,1.0,0.0,home_win,26085.0
+1970,1970-06-17 16:00:00,Semi-finals,1,Brazil,Uruguay,3.0,1.0,home_win,51261.0
+1970,,Semi-finals,1,Italy,Germany FR,4.0,3.0,home_win,102444.0
+1970,1970-06-20 16:00:00,Match for third place,1,Germany FR,Uruguay,1.0,0.0,home_win,104403.0
+1970,1970-06-21 12:00:00,Final,1,Brazil,Italy,4.0,1.0,home_win,107412.0
+1974,1974-06-13 17:00:00,Group 2,0,Brazil,Serbia,0.0,0.0,draw,62000.0
+1974,1974-06-14 16:00:00,Group 1,0,Germany FR,Chile,1.0,0.0,home_win,81100.0
+1974,1974-06-14 19:30:00,Group 1,0,German DR,Australia,2.0,0.0,home_win,17000.0
+1974,1974-06-14 19:30:00,Group 2,0,Zaire,Scotland,0.0,2.0,away_win,27000.0
+1974,1974-06-15 16:00:00,Group 3,0,Uruguay,Netherlands,0.0,2.0,away_win,55100.0
+1974,1974-06-15 16:00:00,Group 3,0,Sweden,Bulgaria,0.0,0.0,draw,23800.0
+1974,1974-06-15 18:00:00,Group 4,0,Italy,Haiti,3.0,1.0,home_win,53000.0
+1974,1974-06-15 18:00:00,Group 4,0,Poland,Argentina,3.0,2.0,home_win,32700.0
+1974,1974-06-18 16:00:00,Group 1,0,Australia,Germany FR,0.0,3.0,away_win,53300.0
+1974,1974-06-18 19:30:00,Group 2,0,Scotland,Brazil,0.0,0.0,draw,62000.0
+1974,1974-06-18 19:30:00,Group 1,0,Chile,German DR,1.0,1.0,draw,28300.0
+1974,1974-06-18 19:30:00,Group 2,0,Serbia,Zaire,9.0,0.0,home_win,31700.0
+1974,1974-06-19 19:30:00,Group 3,0,Netherlands,Sweden,0.0,0.0,draw,53700.0
+1974,1974-06-19 19:30:00,Group 3,0,Bulgaria,Uruguay,1.0,1.0,draw,13400.0
+1974,1974-06-19 19:30:00,Group 4,0,Haiti,Poland,0.0,7.0,away_win,25300.0
+1974,1974-06-19 19:30:00,Group 4,0,Argentina,Italy,1.0,1.0,draw,70100.0
+1974,1974-06-22 16:00:00,Group 2,0,Scotland,Serbia,1.0,1.0,draw,56000.0
+1974,1974-06-22 16:00:00,Group 1,0,Australia,Chile,0.0,0.0,draw,17400.0
+1974,1974-06-22 16:00:00,Group 2,0,Zaire,Brazil,0.0,3.0,away_win,36200.0
+1974,,Group 1,0,German DR,Germany FR,1.0,0.0,home_win,60200.0
+1974,1974-06-23 16:00:00,Group 3,0,Bulgaria,Netherlands,1.0,4.0,away_win,53300.0
+1974,1974-06-23 16:00:00,Group 4,0,Argentina,Haiti,4.0,1.0,home_win,25900.0
+1974,1974-06-23 16:00:00,Group 3,0,Sweden,Uruguay,3.0,0.0,home_win,28300.0
+1974,1974-06-23 16:00:00,Group 4,0,Poland,Italy,2.0,1.0,home_win,70100.0
+1974,1974-06-26 16:00:00,Group B,0,Serbia,Germany FR,0.0,2.0,away_win,67385.0
+1974,1974-06-26 19:30:00,Group A,0,Brazil,German DR,1.0,0.0,home_win,59863.0
+1974,1974-06-26 19:30:00,Group A,0,Netherlands,Argentina,4.0,0.0,home_win,56548.0
+1974,1974-06-26 19:30:00,Group B,0,Sweden,Poland,0.0,1.0,away_win,44955.0
+1974,1974-06-30 16:00:00,Group A,0,Argentina,Brazil,1.0,2.0,away_win,39400.0
+1974,1974-06-30 16:00:00,Group B,0,Poland,Serbia,2.0,1.0,home_win,58000.0
+1974,1974-06-30 16:00:00,Group A,0,German DR,Netherlands,0.0,2.0,away_win,68348.0
+1974,1974-06-30 19:30:00,Group B,0,Germany FR,Sweden,4.0,2.0,home_win,67800.0
+1974,1974-07-03 17:00:00,Group B,0,Poland,Germany FR,0.0,1.0,away_win,62000.0
+1974,1974-07-03 19:30:00,Group A,0,Netherlands,Brazil,2.0,0.0,home_win,53700.0
+1974,1974-07-03 19:30:00,Group A,0,Argentina,German DR,1.0,1.0,draw,54254.0
+1974,1974-07-03 19:30:00,Group B,0,Sweden,Serbia,2.0,1.0,home_win,41300.0
+1974,1974-07-06 16:00:00,Match for third place,1,Brazil,Poland,0.0,1.0,away_win,77100.0
+1974,,Final,1,Netherlands,Germany FR,1.0,2.0,away_win,78200.0
+1978,1978-06-01 15:00:00,Group 2,0,Germany FR,Poland,0.0,0.0,draw,67579.0
+1978,1978-06-02 13:45:00,Group 1,0,Italy,France,2.0,1.0,home_win,42373.0
+1978,1978-06-02 16:45:00,Group 2,0,Tunisia,Mexico,3.0,1.0,home_win,17396.0
+1978,1978-06-02 19:15:00,Group 1,0,Argentina,Hungary,2.0,1.0,home_win,71615.0
+1978,1978-06-03 13:45:00,Group 3,0,Sweden,Brazil,1.0,1.0,draw,32569.0
+1978,1978-06-03 13:45:00,Group 3,0,Austria,Spain,2.0,1.0,home_win,40841.0
+1978,1978-06-03 16:45:00,Group 4,0,Peru,Scotland,3.0,1.0,home_win,37927.0
+1978,1978-06-03 16:45:00,Group 4,0,Netherlands,Iran,3.0,0.0,home_win,33431.0
+1978,1978-06-06 13:45:00,Group 1,0,Italy,Hungary,3.0,1.0,home_win,26533.0
+1978,1978-06-06 16:45:00,Group 2,0,Poland,Tunisia,1.0,0.0,home_win,9624.0
+1978,1978-06-06 16:45:00,Group 2,0,Germany FR,Mexico,6.0,0.0,home_win,35258.0
+1978,1978-06-06 19:15:00,Group 1,0,Argentina,France,2.0,1.0,home_win,71666.0
+1978,1978-06-07 13:45:00,Group 3,0,Brazil,Spain,0.0,0.0,draw,34771.0
+1978,1978-06-07 13:45:00,Group 3,0,Austria,Sweden,1.0,0.0,home_win,41424.0
+1978,1978-06-07 16:45:00,Group 4,0,Scotland,Iran,1.0,1.0,draw,7938.0
+1978,1978-06-07 16:45:00,Group 4,0,Netherlands,Peru,0.0,0.0,draw,28125.0
+1978,1978-06-10 15:10:00,Group 1,0,France,Hungary,3.0,1.0,home_win,23127.0
+1978,1978-06-10 16:45:00,Group 2,0,Poland,Mexico,3.0,1.0,home_win,22651.0
+1978,1978-06-10 16:45:00,Group 2,0,Germany FR,Tunisia,0.0,0.0,draw,30667.0
+1978,1978-06-10 19:15:00,Group 1,0,Italy,Argentina,1.0,0.0,home_win,71712.0
+1978,1978-06-11 13:45:00,Group 3,0,Brazil,Austria,1.0,0.0,home_win,35221.0
+1978,1978-06-11 13:45:00,Group 3,0,Spain,Sweden,1.0,0.0,home_win,42132.0
+1978,1978-06-11 16:45:00,Group 4,0,Peru,Iran,4.0,1.0,home_win,21262.0
+1978,1978-06-11 16:45:00,Group 4,0,Scotland,Netherlands,3.0,2.0,home_win,35130.0
+1978,1978-06-14 13:45:00,Group A,0,Germany FR,Italy,0.0,0.0,draw,67547.0
+1978,1978-06-14 13:45:00,Group A,0,Netherlands,Austria,5.0,1.0,home_win,25050.0
+1978,1978-06-14 16:45:00,Group B,0,Brazil,Peru,3.0,0.0,home_win,31278.0
+1978,1978-06-14 19:15:00,Group B,0,Argentina,Poland,2.0,0.0,home_win,37091.0
+1978,1978-06-18 13:45:00,Group B,0,Poland,Peru,1.0,0.0,home_win,35288.0
+1978,1978-06-18 16:45:00,Group A,0,Italy,Austria,1.0,0.0,home_win,66695.0
+1978,1978-06-18 16:45:00,Group A,0,Germany FR,Netherlands,2.0,2.0,draw,40750.0
+1978,1978-06-18 19:15:00,Group B,0,Argentina,Brazil,0.0,0.0,draw,37326.0
+1978,1978-06-21 13:45:00,Group A,0,Netherlands,Italy,2.0,1.0,home_win,67433.0
+1978,1978-06-21 13:45:00,Group A,0,Austria,Germany FR,3.0,2.0,home_win,38318.0
+1978,1978-06-21 16:45:00,Group B,0,Brazil,Poland,3.0,1.0,home_win,39586.0
+1978,1978-06-21 19:15:00,Group B,0,Argentina,Peru,6.0,0.0,home_win,37315.0
+1978,1978-06-24 15:00:00,Match for third place,1,Brazil,Italy,2.0,1.0,home_win,69659.0
+1978,1978-06-25 15:00:00,Final,1,Argentina,Netherlands,3.0,1.0,home_win,71483.0
+1982,1982-06-13 20:00:00,Group 3,0,Argentina,Belgium,0.0,1.0,away_win,95000.0
+1982,1982-06-14 17:15:00,Group 1,0,Italy,Poland,0.0,0.0,draw,33000.0
+1982,1982-06-14 21:00:00,Group 6,0,Brazil,Russia,2.0,1.0,home_win,68000.0
+1982,1982-06-15 17:15:00,Group 1,0,Peru,Cameroon,0.0,0.0,draw,11000.0
+1982,1982-06-15 21:00:00,Group 3,0,Hungary,El Salvador,10.0,1.0,home_win,23000.0
+1982,1982-06-15 21:00:00,Group 6,0,Scotland,New Zealand,5.0,2.0,home_win,36000.0
+1982,1982-06-16 17:15:00,Group 2,0,Germany FR,Algeria,1.0,2.0,away_win,42000.0
+1982,1982-06-16 17:15:00,Group 4,0,England,France,3.0,1.0,home_win,44172.0
+1982,1982-06-16 21:00:00,Group 5,0,Spain,Honduras,1.0,1.0,draw,49562.0
+1982,1982-06-17 17:15:00,Group 2,0,Chile,Austria,0.0,1.0,away_win,22500.0
+1982,1982-06-17 17:45:00,Group 4,0,Czech Republic,Kuwait,1.0,1.0,draw,25000.0
+1982,1982-06-17 21:00:00,Group 5,0,Serbia,Northern Ireland,0.0,0.0,draw,25000.0
+1982,1982-06-18 17:15:00,Group 1,0,Italy,Peru,1.0,1.0,draw,25000.0
+1982,1982-06-18 21:00:00,Group 3,0,Argentina,Hungary,4.0,1.0,home_win,32093.0
+1982,1982-06-18 21:00:00,Group 6,0,Brazil,Scotland,4.0,1.0,home_win,47379.0
+1982,1982-06-19 19:15:00,Group 1,0,Poland,Cameroon,0.0,0.0,draw,19000.0
+1982,1982-06-19 21:00:00,Group 3,0,Belgium,El Salvador,1.0,0.0,home_win,15000.0
+1982,1982-06-19 21:00:00,Group 6,0,Russia,New Zealand,3.0,0.0,home_win,19000.0
+1982,1982-06-20 17:15:00,Group 2,0,Germany FR,Chile,4.0,1.0,home_win,42000.0
+1982,1982-06-20 17:15:00,Group 4,0,England,Czech Republic,2.0,0.0,home_win,41123.0
+1982,1982-06-20 21:00:00,Group 5,0,Spain,Serbia,2.0,1.0,home_win,48000.0
+1982,1982-06-21 17:15:00,Group 2,0,Algeria,Austria,0.0,2.0,away_win,22000.0
+1982,1982-06-21 17:15:00,Group 4,0,France,Kuwait,4.0,1.0,home_win,30043.0
+1982,1982-06-21 21:00:00,Group 5,0,Honduras,Northern Ireland,1.0,1.0,draw,15000.0
+1982,1982-06-22 17:15:00,Group 1,0,Poland,Peru,5.0,1.0,home_win,25000.0
+1982,1982-06-22 21:00:00,Group 3,0,Belgium,Hungary,1.0,1.0,draw,37000.0
+1982,1982-06-22 21:00:00,Group 6,0,Russia,Scotland,2.0,2.0,draw,45000.0
+1982,1982-06-23 17:15:00,Group 1,0,Italy,Cameroon,1.0,1.0,draw,20000.0
+1982,1982-06-23 21:00:00,Group 3,0,Argentina,El Salvador,2.0,0.0,home_win,32500.0
+1982,1982-06-23 21:00:00,Group 6,0,Brazil,New Zealand,4.0,0.0,home_win,43000.0
+1982,1982-06-24 17:15:00,Group 2,0,Algeria,Chile,3.0,2.0,home_win,16000.0
+1982,1982-06-24 17:15:00,Group 4,0,France,Czech Republic,1.0,1.0,draw,28000.0
+1982,1982-06-24 21:00:00,Group 5,0,Honduras,Serbia,0.0,1.0,away_win,25000.0
+1982,1982-06-25 17:15:00,Group 2,0,Germany FR,Austria,1.0,0.0,home_win,41000.0
+1982,1982-06-25 17:15:00,Group 4,0,England,Kuwait,1.0,0.0,home_win,39700.0
+1982,1982-06-25 21:00:00,Group 5,0,Northern Ireland,Spain,1.0,0.0,home_win,49562.0
+1982,1982-06-28 17:15:00,Group 4,0,Austria,France,0.0,1.0,away_win,37000.0
+1982,1982-06-28 21:00:00,Group 1,0,Poland,Belgium,3.0,0.0,home_win,65000.0
+1982,1982-06-29 17:15:00,Group 3,0,Italy,Argentina,2.0,1.0,home_win,43000.0
+1982,1982-06-29 21:00:00,Group 2,0,Germany FR,England,0.0,0.0,draw,75000.0
+1982,1982-07-01 17:15:00,Group 4,0,Austria,Northern Ireland,2.0,2.0,draw,20000.0
+1982,1982-07-01 21:00:00,Group 1,0,Belgium,Russia,0.0,1.0,away_win,45000.0
+1982,1982-07-02 17:15:00,Group 3,0,Argentina,Brazil,1.0,3.0,away_win,44000.0
+1982,1982-07-02 21:00:00,Group 2,0,Germany FR,Spain,2.0,1.0,home_win,90089.0
+1982,1982-07-04 17:15:00,Group 4,0,France,Northern Ireland,4.0,1.0,home_win,37000.0
+1982,1982-07-04 21:00:00,Group 1,0,Poland,Russia,0.0,0.0,draw,65000.0
+1982,1982-07-05 17:15:00,Group 3,0,Italy,Brazil,3.0,2.0,home_win,44000.0
+1982,1982-07-05 21:00:00,Group 2,0,Spain,England,0.0,0.0,draw,75000.0
+1982,1982-07-08 17:15:00,Semi-finals,1,Poland,Italy,0.0,2.0,away_win,50000.0
+1982,1982-07-08 21:00:00,Semi-finals,1,Germany FR,France,3.0,3.0,draw,70000.0
+1982,1982-07-10 20:00:00,Match for third place,1,Poland,France,3.0,2.0,home_win,28000.0
+1982,1982-07-11 20:00:00,Final,1,Italy,Germany FR,3.0,1.0,home_win,90000.0
+1986,1986-05-31 12:00:00,Group A,0,Bulgaria,Italy,1.0,1.0,draw,96000.0
+1986,1986-06-01 16:00:00,Group C,0,Canada,France,0.0,1.0,away_win,65500.0
+1986,1986-06-01 12:00:00,Group D,0,Spain,Brazil,0.0,1.0,away_win,35748.0
+1986,1986-06-02 12:00:00,Group C,0,Russia,Hungary,6.0,0.0,home_win,16500.0
+1986,1986-06-02 12:00:00,Group A,0,Argentina,South Korea,3.0,1.0,home_win,60000.0
+1986,1986-06-02 16:00:00,Group F,0,Morocco,Poland,0.0,0.0,draw,19900.0
+1986,1986-06-03 12:00:00,Group D,0,Algeria,Northern Ireland,1.0,1.0,draw,22000.0
+1986,1986-06-03 12:00:00,Group B,0,Belgium,Mexico,1.0,2.0,away_win,110000.0
+1986,1986-06-03 16:00:00,Group F,0,Portugal,England,1.0,0.0,home_win,23000.0
+1986,1986-06-04 12:00:00,Group B,0,Paraguay,Iraq,1.0,0.0,home_win,24000.0
+1986,1986-06-04 16:00:00,Group E,0,Scotland,Denmark,0.0,1.0,away_win,18000.0
+1986,1986-06-04 12:00:00,Group E,0,Uruguay,Germany FR,1.0,1.0,draw,30500.0
+1986,1986-06-05 12:00:00,Group A,0,Italy,Argentina,1.0,1.0,draw,32000.0
+1986,1986-06-05 12:00:00,Group C,0,France,Russia,1.0,1.0,draw,36540.0
+1986,1986-06-05 16:00:00,Group A,0,South Korea,Bulgaria,1.0,1.0,draw,45000.0
+1986,1986-06-06 12:00:00,Group C,0,Hungary,Canada,2.0,0.0,home_win,13800.0
+1986,1986-06-06 12:00:00,Group D,0,Brazil,Algeria,1.0,0.0,home_win,48000.0
+1986,1986-06-06 16:00:00,Group F,0,England,Morocco,0.0,0.0,draw,20200.0
+1986,1986-06-07 12:00:00,Group D,0,Northern Ireland,Spain,1.0,2.0,away_win,28000.0
+1986,1986-06-07 12:00:00,Group B,0,Mexico,Paraguay,1.0,1.0,draw,114600.0
+1986,1986-06-07 16:00:00,Group F,0,Poland,Portugal,1.0,0.0,home_win,19915.0
+1986,1986-06-08 12:00:00,Group B,0,Iraq,Belgium,1.0,2.0,away_win,20000.0
+1986,1986-06-08 16:00:00,Group E,0,Denmark,Uruguay,6.0,1.0,home_win,26500.0
+1986,1986-06-08 12:00:00,Group E,0,Germany FR,Scotland,2.0,1.0,home_win,30000.0
+1986,1986-06-09 12:00:00,Group C,0,Hungary,France,0.0,3.0,away_win,31420.0
+1986,1986-06-09 12:00:00,Group C,0,Russia,Canada,2.0,0.0,home_win,14200.0
+1986,1986-06-10 12:00:00,Group A,0,South Korea,Italy,2.0,3.0,away_win,20000.0
+1986,1986-06-10 12:00:00,Group A,0,Argentina,Bulgaria,2.0,0.0,home_win,65000.0
+1986,1986-06-11 12:00:00,Group B,0,Paraguay,Belgium,2.0,2.0,draw,16000.0
+1986,1986-06-11 12:00:00,Group B,0,Iraq,Mexico,0.0,1.0,away_win,103763.0
+1986,1986-06-11 16:00:00,Group F,0,Portugal,Morocco,1.0,3.0,away_win,28000.0
+1986,1986-06-11 16:00:00,Group F,0,England,Poland,3.0,0.0,home_win,22700.0
+1986,1986-06-12 12:00:00,Group D,0,Northern Ireland,Brazil,0.0,3.0,away_win,51000.0
+1986,1986-06-12 12:00:00,Group D,0,Algeria,Spain,0.0,3.0,away_win,23980.0
+1986,1986-06-13 12:00:00,Group E,0,Scotland,Uruguay,0.0,0.0,draw,20000.0
+1986,1986-06-13 12:00:00,Group E,0,Denmark,Germany FR,2.0,0.0,home_win,36000.0
+1986,1986-06-15 16:00:00,Round of 16,1,Russia,Belgium,3.0,4.0,away_win,32277.0
+1986,1986-06-15 12:00:00,Round of 16,1,Mexico,Bulgaria,2.0,0.0,home_win,114580.0
+1986,1986-06-16 16:00:00,Round of 16,1,Argentina,Uruguay,1.0,0.0,home_win,26000.0
+1986,1986-06-16 12:00:00,Round of 16,1,Brazil,Poland,4.0,0.0,home_win,45000.0
+1986,1986-06-17 12:00:00,Round of 16,1,Italy,France,0.0,2.0,away_win,70000.0
+1986,1986-06-17 16:00:00,Round of 16,1,Morocco,Germany FR,0.0,1.0,away_win,19800.0
+1986,1986-06-18 12:00:00,Round of 16,1,England,Paraguay,3.0,0.0,home_win,98728.0
+1986,1986-06-18 16:00:00,Round of 16,1,Denmark,Spain,1.0,5.0,away_win,38500.0
+1986,1986-06-21 12:00:00,Quarter-finals,1,Brazil,France,1.0,1.0,draw,65000.0
+1986,1986-06-21 16:00:00,Quarter-finals,1,Germany FR,Mexico,0.0,0.0,draw,41700.0
+1986,1986-06-22 16:00:00,Quarter-finals,1,Spain,Belgium,1.0,1.0,draw,45000.0
+1986,1986-06-22 12:00:00,Quarter-finals,1,Argentina,England,2.0,1.0,home_win,114580.0
+1986,1986-06-25 12:00:00,Semi-finals,1,France,Germany FR,0.0,2.0,away_win,45000.0
+1986,1986-06-25 16:00:00,Semi-finals,1,Argentina,Belgium,2.0,0.0,home_win,114500.0
+1986,1986-06-28 12:00:00,Match for third place,1,France,Belgium,4.0,2.0,home_win,21000.0
+1986,1986-06-29 12:00:00,Final,1,Argentina,Germany FR,3.0,2.0,home_win,114600.0
+1990,1990-06-08 18:00:00,Group B,0,Argentina,Cameroon,0.0,1.0,away_win,73780.0
+1990,1990-06-09 17:00:00,Group B,0,Russia,Romania,0.0,2.0,away_win,42907.0
+1990,1990-06-09 17:00:00,Group D,0,"rn"">United Arab Emirates",Colombia,0.0,2.0,away_win,30791.0
+1990,1990-06-09 21:00:00,Group A,0,Italy,Austria,1.0,0.0,home_win,73303.0
+1990,1990-06-10 17:00:00,Group A,0,USA,Czech Republic,1.0,5.0,away_win,33266.0
+1990,1990-06-10 21:00:00,Group C,0,Brazil,Sweden,2.0,1.0,home_win,62628.0
+1990,1990-06-10 21:00:00,Group D,0,Germany FR,Serbia,4.0,1.0,home_win,74765.0
+1990,1990-06-11 17:00:00,Group C,0,Costa Rica,Scotland,1.0,0.0,home_win,30867.0
+1990,1990-06-11 21:00:00,Group F,0,England,"rn"">Republic of Ireland",1.0,1.0,draw,35238.0
+1990,1990-06-12 17:00:00,Group E,0,Belgium,South Korea,2.0,0.0,home_win,32790.0
+1990,1990-06-12 21:00:00,Group F,0,Netherlands,Egypt,1.0,1.0,draw,33288.0
+1990,1990-06-13 17:00:00,Group E,0,Uruguay,Spain,0.0,0.0,draw,35713.0
+1990,1990-06-13 21:00:00,Group B,0,Argentina,Russia,2.0,0.0,home_win,55759.0
+1990,1990-06-14 17:00:00,Group B,0,Cameroon,Romania,2.0,1.0,home_win,38687.0
+1990,1990-06-14 17:00:00,Group D,0,Serbia,Colombia,1.0,0.0,home_win,32257.0
+1990,1990-06-14 21:00:00,Group A,0,Italy,USA,1.0,0.0,home_win,73423.0
+1990,1990-06-15 17:00:00,Group A,0,Austria,Czech Republic,0.0,1.0,away_win,38962.0
+1990,1990-06-15 21:00:00,Group D,0,Germany FR,"rn"">United Arab Emirates",5.0,1.0,home_win,71169.0
+1990,1990-06-16 17:00:00,Group C,0,Brazil,Costa Rica,1.0,0.0,home_win,58007.0
+1990,1990-06-16 21:00:00,Group C,0,Sweden,Scotland,1.0,2.0,away_win,31823.0
+1990,1990-06-16 21:00:00,Group F,0,England,Netherlands,0.0,0.0,draw,35267.0
+1990,1990-06-17 17:00:00,Group F,0,"rn"">Republic of Ireland",Egypt,0.0,0.0,draw,33288.0
+1990,1990-06-17 21:00:00,Group E,0,South Korea,Spain,1.0,3.0,away_win,32733.0
+1990,1990-06-17 21:00:00,Group E,0,Belgium,Uruguay,3.0,1.0,home_win,33759.0
+1990,1990-06-18 21:00:00,Group B,0,Argentina,Romania,1.0,1.0,draw,52733.0
+1990,1990-06-18 21:00:00,Group B,0,Cameroon,Russia,0.0,4.0,away_win,37307.0
+1990,1990-06-19 17:00:00,Group D,0,Germany FR,Colombia,1.0,1.0,draw,72510.0
+1990,1990-06-19 17:00:00,Group D,0,Serbia,"rn"">United Arab Emirates",4.0,1.0,home_win,27833.0
+1990,1990-06-19 21:00:00,Group A,0,Italy,Czech Republic,2.0,0.0,home_win,73303.0
+1990,1990-06-19 21:00:00,Group A,0,Austria,USA,2.0,1.0,home_win,34857.0
+1990,1990-06-20 21:00:00,Group C,0,Brazil,Scotland,1.0,0.0,home_win,62502.0
+1990,1990-06-20 21:00:00,Group C,0,Sweden,Costa Rica,1.0,2.0,away_win,30223.0
+1990,1990-06-21 17:00:00,Group E,0,South Korea,Uruguay,0.0,1.0,away_win,29039.0
+1990,1990-06-21 17:00:00,Group E,0,Belgium,Spain,1.0,2.0,away_win,35950.0
+1990,1990-06-21 21:00:00,Group F,0,"rn"">Republic of Ireland",Netherlands,1.0,1.0,draw,33288.0
+1990,1990-06-21 21:00:00,Group F,0,England,Egypt,1.0,0.0,home_win,34959.0
+1990,1990-06-23 17:00:00,Round of 16,1,Cameroon,Colombia,2.0,1.0,home_win,50026.0
+1990,1990-06-23 21:00:00,Round of 16,1,Czech Republic,Costa Rica,4.0,1.0,home_win,47673.0
+1990,1990-06-24 17:00:00,Round of 16,1,Brazil,Argentina,0.0,1.0,away_win,61381.0
+1990,1990-06-24 21:00:00,Round of 16,1,Germany FR,Netherlands,2.0,1.0,home_win,74559.0
+1990,1990-06-25 17:00:00,Round of 16,1,"rn"">Republic of Ireland",Romania,0.0,0.0,draw,31818.0
+1990,1990-06-25 21:00:00,Round of 16,1,Italy,Uruguay,2.0,0.0,home_win,73303.0
+1990,1990-06-26 17:00:00,Round of 16,1,Spain,Serbia,1.0,2.0,away_win,35500.0
+1990,1990-06-26 21:00:00,Round of 16,1,England,Belgium,1.0,0.0,home_win,34520.0
+1990,1990-06-30 17:00:00,Quarter-finals,1,Serbia,Argentina,0.0,0.0,draw,38971.0
+1990,1990-06-30 21:00:00,Quarter-finals,1,Italy,"rn"">Republic of Ireland",1.0,0.0,home_win,73303.0
+1990,1990-07-01 17:00:00,Quarter-finals,1,Germany FR,Czech Republic,1.0,0.0,home_win,73347.0
+1990,1990-07-01 21:00:00,Quarter-finals,1,England,Cameroon,3.0,2.0,home_win,55205.0
+1990,1990-07-03 20:00:00,Semi-finals,1,Italy,Argentina,1.0,1.0,draw,59978.0
+1990,1990-07-04 20:00:00,Semi-finals,1,Germany FR,England,1.0,1.0,draw,62628.0
+1990,1990-07-07 20:00:00,Match for third place,1,Italy,England,2.0,1.0,home_win,51426.0
+1990,1990-07-08 20:00:00,Final,1,Germany FR,Argentina,1.0,0.0,home_win,73603.0
+1994,1994-06-17 19:30:00,Group C,0,Spain,South Korea,2.0,2.0,draw,56247.0
+1994,1994-06-17 15:00:00,Group C,0,Germany,Bolivia,1.0,0.0,home_win,63117.0
+1994,1994-06-18 11:30:00,Group A,0,USA,Switzerland,1.0,1.0,draw,73425.0
+1994,1994-06-18 16:00:00,Group E,0,Italy,"rn"">Republic of Ireland",0.0,1.0,away_win,75338.0
+1994,1994-06-18 19:30:00,Group A,0,Colombia,Romania,1.0,3.0,away_win,91856.0
+1994,1994-06-19 12:30:00,Group F,0,Belgium,Morocco,1.0,0.0,home_win,61219.0
+1994,1994-06-19 16:00:00,Group E,0,Norway,Mexico,1.0,0.0,home_win,52395.0
+1994,1994-06-19 19:30:00,Group B,0,Cameroon,Sweden,2.0,2.0,draw,93194.0
+1994,1994-06-20 19:30:00,Group F,0,Netherlands,Saudi Arabia,2.0,1.0,home_win,50535.0
+1994,1994-06-20 16:00:00,Group B,0,Brazil,Russia,2.0,0.0,home_win,81061.0
+1994,1994-06-21 12:30:00,Group D,0,Argentina,Greece,4.0,0.0,home_win,54456.0
+1994,1994-06-21 19:30:00,Group D,0,Nigeria,Bulgaria,3.0,0.0,home_win,44132.0
+1994,1994-06-21 16:00:00,Group C,0,Germany,Spain,1.0,1.0,draw,63113.0
+1994,1994-06-22 16:00:00,Group A,0,Romania,Switzerland,1.0,4.0,away_win,61428.0
+1994,1994-06-22 19:30:00,Group A,0,USA,Colombia,2.0,1.0,home_win,93869.0
+1994,1994-06-23 16:00:00,Group E,0,Italy,Norway,1.0,0.0,home_win,74624.0
+1994,1994-06-23 19:30:00,Group C,0,South Korea,Bolivia,0.0,0.0,draw,54453.0
+1994,1994-06-24 12:30:00,Group E,0,Mexico,"rn"">Republic of Ireland",2.0,1.0,home_win,60790.0
+1994,1994-06-24 19:30:00,Group B,0,Sweden,Russia,3.0,1.0,home_win,71528.0
+1994,1994-06-24 16:00:00,Group B,0,Brazil,Cameroon,3.0,0.0,home_win,83401.0
+1994,1994-06-25 12:30:00,Group F,0,Belgium,Netherlands,1.0,0.0,home_win,62387.0
+1994,1994-06-25 12:30:00,Group F,0,Saudi Arabia,Morocco,2.0,1.0,home_win,76322.0
+1994,1994-06-25 16:00:00,Group D,0,Argentina,Nigeria,2.0,1.0,home_win,54453.0
+1994,1994-06-26 12:30:00,Group D,0,Bulgaria,Greece,4.0,0.0,home_win,63160.0
+1994,1994-06-26 16:00:00,Group A,0,USA,Romania,0.0,1.0,away_win,93869.0
+1994,1994-06-26 16:00:00,Group A,0,Switzerland,Colombia,0.0,2.0,away_win,83401.0
+1994,1994-06-27 16:00:00,Group C,0,Germany,South Korea,3.0,2.0,home_win,63998.0
+1994,1994-06-27 16:00:00,Group C,0,Bolivia,Spain,1.0,3.0,away_win,63089.0
+1994,1994-06-28 12:30:00,Group E,0,"rn"">Republic of Ireland",Norway,0.0,0.0,draw,72404.0
+1994,1994-06-28 16:00:00,Group B,0,Brazil,Sweden,1.0,1.0,draw,77217.0
+1994,1994-06-28 12:30:00,Group E,0,Italy,Mexico,1.0,1.0,draw,52535.0
+1994,1994-06-28 16:00:00,Group B,0,Russia,Cameroon,6.0,1.0,home_win,74914.0
+1994,1994-06-29 12:30:00,Group F,0,Morocco,Netherlands,1.0,2.0,away_win,60578.0
+1994,1994-06-29 12:30:00,Group F,0,Belgium,Saudi Arabia,0.0,1.0,away_win,52959.0
+1994,1994-06-30 19:30:00,Group D,0,Greece,Nigeria,0.0,2.0,away_win,53001.0
+1994,1994-06-30 19:30:00,Group D,0,Argentina,Bulgaria,0.0,2.0,away_win,63998.0
+1994,1994-07-02 12:00:00,Round of 16,1,Germany,Belgium,3.0,2.0,home_win,60246.0
+1994,1994-07-02 16:30:00,Round of 16,1,Spain,Switzerland,3.0,0.0,home_win,53121.0
+1994,1994-07-03 12:00:00,Round of 16,1,Saudi Arabia,Sweden,1.0,3.0,away_win,60277.0
+1994,1994-07-03 13:30:00,Round of 16,1,Romania,Argentina,3.0,2.0,home_win,90469.0
+1994,1994-07-04 12:00:00,Round of 16,1,Netherlands,"rn"">Republic of Ireland",2.0,0.0,home_win,61355.0
+1994,1994-07-04 12:30:00,Round of 16,1,Brazil,USA,1.0,0.0,home_win,84147.0
+1994,1994-07-05 13:00:00,Round of 16,1,Nigeria,Italy,1.0,2.0,away_win,54367.0
+1994,1994-07-05 16:30:00,Round of 16,1,Mexico,Bulgaria,1.0,1.0,draw,71030.0
+1994,1994-07-09 12:00:00,Quarter-finals,1,Italy,Spain,2.0,1.0,home_win,53400.0
+1994,1994-07-09 14:30:00,Quarter-finals,1,Netherlands,Brazil,2.0,3.0,away_win,63500.0
+1994,1994-07-10 12:00:00,Quarter-finals,1,Bulgaria,Germany,2.0,1.0,home_win,72000.0
+1994,1994-07-10 12:30:00,Quarter-finals,1,Romania,Sweden,2.0,2.0,draw,83500.0
+1994,1994-07-13 16:00:00,Semi-finals,1,Bulgaria,Italy,1.0,2.0,away_win,74110.0
+1994,1994-07-13 16:30:00,Semi-finals,1,Sweden,Brazil,0.0,1.0,away_win,91856.0
+1994,1994-07-16 12:30:00,Match for third place,1,Sweden,Bulgaria,4.0,0.0,home_win,91500.0
+1994,1994-07-17 12:30:00,Final,1,Brazil,Italy,0.0,0.0,draw,94194.0
+1998,1998-06-10 17:30:00,Group A,0,Brazil,Scotland,2.0,1.0,home_win,80000.0
+1998,1998-06-10 21:00:00,Group A,0,Morocco,Norway,2.0,2.0,draw,29800.0
+1998,1998-06-11 17:30:00,Group B,0,Italy,Chile,2.0,2.0,draw,31800.0
+1998,1998-06-11 21:00:00,Group B,0,Cameroon,Austria,1.0,1.0,draw,33500.0
+1998,1998-06-12 14:30:00,Group D,0,Paraguay,Bulgaria,0.0,0.0,draw,29800.0
+1998,1998-06-12 17:30:00,Group C,0,Saudi Arabia,Denmark,0.0,1.0,away_win,38100.0
+1998,1998-06-12 21:00:00,Group C,0,France,South Africa,3.0,0.0,home_win,55000.0
+1998,1998-06-13 14:30:00,Group D,0,Spain,Nigeria,2.0,3.0,away_win,35500.0
+1998,1998-06-13 17:30:00,Group E,0,South Korea,Mexico,1.0,3.0,away_win,39100.0
+1998,1998-06-13 21:00:00,Group E,0,Netherlands,Belgium,0.0,0.0,draw,77000.0
+1998,1998-06-14 14:30:00,Group H,0,Argentina,Japan,1.0,0.0,home_win,33500.0
+1998,1998-06-14 17:30:00,Group F,0,Serbia,Iran,1.0,0.0,home_win,30600.0
+1998,1998-06-14 21:00:00,Group H,0,Jamaica,Croatia,1.0,3.0,away_win,38100.0
+1998,1998-06-15 14:30:00,Group G,0,England,Tunisia,2.0,0.0,home_win,55000.0
+1998,1998-06-15 17:30:00,Group G,0,Romania,Colombia,1.0,0.0,home_win,39100.0
+1998,1998-06-15 21:00:00,Group F,0,Germany,USA,2.0,0.0,home_win,45500.0
+1998,1998-06-16 17:30:00,Group A,0,Scotland,Norway,1.0,1.0,draw,31800.0
+1998,1998-06-16 21:00:00,Group A,0,Brazil,Morocco,3.0,0.0,home_win,35500.0
+1998,1998-06-17 17:30:00,Group B,0,Chile,Austria,1.0,1.0,draw,30600.0
+1998,1998-06-17 21:00:00,Group B,0,Italy,Cameroon,3.0,0.0,home_win,29800.0
+1998,1998-06-18 17:30:00,Group C,0,South Africa,Denmark,1.0,1.0,draw,33500.0
+1998,1998-06-18 21:00:00,Group C,0,France,Saudi Arabia,4.0,0.0,home_win,80000.0
+1998,1998-06-19 17:30:00,Group D,0,Nigeria,Bulgaria,1.0,0.0,home_win,45500.0
+1998,1998-06-19 21:00:00,Group D,0,Spain,Paraguay,0.0,0.0,draw,30600.0
+1998,1998-06-20 14:30:00,Group H,0,Japan,Croatia,0.0,1.0,away_win,35500.0
+1998,1998-06-20 17:30:00,Group E,0,Belgium,Mexico,2.0,2.0,draw,31800.0
+1998,1998-06-20 21:00:00,Group E,0,Netherlands,South Korea,5.0,0.0,home_win,55000.0
+1998,1998-06-21 14:30:00,Group F,0,Germany,Serbia,2.0,2.0,draw,38100.0
+1998,1998-06-21 17:30:00,Group H,0,Argentina,Jamaica,5.0,0.0,home_win,45500.0
+1998,1998-06-21 21:00:00,Group F,0,USA,Iran,1.0,2.0,away_win,39100.0
+1998,1998-06-22 17:30:00,Group G,0,Colombia,Tunisia,1.0,0.0,home_win,29800.0
+1998,1998-06-22 21:00:00,Group G,0,Romania,England,2.0,1.0,home_win,33500.0
+1998,1998-06-23 16:00:00,Group B,0,Italy,Austria,2.0,1.0,home_win,80000.0
+1998,1998-06-23 16:00:00,Group B,0,Chile,Cameroon,1.0,1.0,draw,35500.0
+1998,1998-06-23 21:00:00,Group A,0,Scotland,Morocco,0.0,3.0,away_win,30600.0
+1998,1998-06-23 21:00:00,Group A,0,Brazil,Norway,1.0,2.0,away_win,55000.0
+1998,1998-06-24 16:00:00,Group C,0,France,Denmark,2.0,1.0,home_win,39100.0
+1998,1998-06-24 16:00:00,Group C,0,South Africa,Saudi Arabia,2.0,2.0,draw,31800.0
+1998,1998-06-24 21:00:00,Group D,0,Spain,Bulgaria,6.0,1.0,home_win,38100.0
+1998,1998-06-24 21:00:00,Group D,0,Nigeria,Paraguay,1.0,3.0,away_win,33500.0
+1998,1998-06-25 16:00:00,Group E,0,Belgium,South Korea,1.0,1.0,draw,45500.0
+1998,1998-06-25 16:00:00,Group E,0,Netherlands,Mexico,2.0,2.0,draw,30600.0
+1998,1998-06-25 21:00:00,Group F,0,Germany,Iran,2.0,0.0,home_win,29800.0
+1998,1998-06-25 21:00:00,Group F,0,USA,Serbia,0.0,1.0,away_win,35500.0
+1998,1998-06-26 16:00:00,Group H,0,Japan,Jamaica,1.0,2.0,away_win,39100.0
+1998,1998-06-26 16:00:00,Group H,0,Argentina,Croatia,1.0,0.0,home_win,31800.0
+1998,1998-06-26 21:00:00,Group G,0,Romania,Tunisia,1.0,1.0,draw,77000.0
+1998,1998-06-26 21:00:00,Group G,0,Colombia,England,0.0,2.0,away_win,38100.0
+1998,1998-06-27 16:30:00,Round of 16,1,Italy,Norway,1.0,0.0,home_win,55000.0
+1998,1998-06-27 21:00:00,Round of 16,1,Brazil,Chile,4.0,1.0,home_win,45500.0
+1998,1998-06-28 16:30:00,Round of 16,1,France,Paraguay,1.0,0.0,home_win,31800.0
+1998,1998-06-28 21:00:00,Round of 16,1,Nigeria,Denmark,1.0,4.0,away_win,77000.0
+1998,1998-06-29 16:30:00,Round of 16,1,Germany,Mexico,2.0,1.0,home_win,29800.0
+1998,1998-06-29 21:00:00,Round of 16,1,Netherlands,Serbia,2.0,1.0,home_win,33500.0
+1998,1998-06-30 16:30:00,Round of 16,1,Romania,Croatia,0.0,1.0,away_win,31800.0
+1998,1998-06-30 21:00:00,Round of 16,1,Argentina,England,2.0,2.0,draw,30600.0
+1998,1998-07-03 16:30:00,Quarter-finals,1,Italy,France,0.0,0.0,draw,77000.0
+1998,1998-07-03 21:00:00,Quarter-finals,1,Brazil,Denmark,3.0,2.0,home_win,35500.0
+1998,1998-07-04 16:30:00,Quarter-finals,1,Netherlands,Argentina,2.0,1.0,home_win,55000.0
+1998,1998-07-04 21:00:00,Quarter-finals,1,Germany,Croatia,0.0,3.0,away_win,39100.0
+1998,1998-07-07 21:00:00,Semi-finals,1,Brazil,Netherlands,1.0,1.0,draw,54000.0
+1998,1998-07-08 21:00:00,Semi-finals,1,France,Croatia,2.0,1.0,home_win,76000.0
+1998,1998-07-11 21:00:00,Match for third place,1,Netherlands,Croatia,1.0,2.0,away_win,45500.0
+1998,1998-07-12 21:00:00,Final,1,Brazil,France,0.0,3.0,away_win,80000.0
+2002,2002-05-31 20:30:00,Group A,0,France,Senegal,0.0,1.0,away_win,62561.0
+2002,2002-06-01 18:00:00,Group A,0,Uruguay,Denmark,1.0,2.0,away_win,30157.0
+2002,2002-06-01 15:30:00,Group E,0,"rn"">Republic of Ireland",Cameroon,1.0,1.0,draw,33679.0
+2002,2002-06-01 20:30:00,Group E,0,Germany,Saudi Arabia,8.0,0.0,home_win,32218.0
+2002,2002-06-02 14:30:00,Group F,0,Argentina,Nigeria,1.0,0.0,home_win,34050.0
+2002,2002-06-02 16:30:00,Group B,0,Paraguay,South Africa,2.0,2.0,draw,25186.0
+2002,2002-06-02 18:30:00,Group F,0,England,Sweden,1.0,1.0,draw,52721.0
+2002,2002-06-02 20:30:00,Group B,0,Spain,Slovenia,3.0,1.0,home_win,28598.0
+2002,,Group C,0,Brazil,Turkey,2.0,1.0,home_win,33842.0
+2002,2002-06-03 20:30:00,Group G,0,Italy,Ecuador,2.0,0.0,home_win,31081.0
+2002,2002-06-03 15:30:00,Group G,0,Croatia,Mexico,0.0,1.0,away_win,32239.0
+2002,,Group C,0,China,Costa Rica,0.0,2.0,away_win,27217.0
+2002,,Group H,0,Japan,Belgium,2.0,2.0,draw,55256.0
+2002,2002-06-04 20:30:00,Group D,0,South Korea,Poland,2.0,0.0,home_win,48760.0
+2002,2002-06-05 15:30:00,Group H,0,Russia,Tunisia,2.0,0.0,home_win,30957.0
+2002,2002-06-05 18:00:00,Group D,0,USA,Portugal,3.0,2.0,home_win,37306.0
+2002,2002-06-05 20:30:00,Group E,0,Germany,"rn"">Republic of Ireland",1.0,1.0,draw,35854.0
+2002,2002-06-06 15:30:00,Group A,0,Denmark,Senegal,1.0,1.0,draw,43500.0
+2002,2002-06-06 18:00:00,Group E,0,Cameroon,Saudi Arabia,1.0,0.0,home_win,52328.0
+2002,2002-06-06 20:30:00,Group A,0,France,Uruguay,0.0,0.0,draw,38289.0
+2002,2002-06-07 15:30:00,Group F,0,Sweden,Nigeria,2.0,1.0,home_win,36194.0
+2002,2002-06-07 20:30:00,Group F,0,Argentina,England,0.0,1.0,away_win,35927.0
+2002,,Group B,0,Spain,Paraguay,3.0,1.0,home_win,24000.0
+2002,2002-06-08 15:30:00,Group B,0,South Africa,Slovenia,1.0,0.0,home_win,47226.0
+2002,2002-06-08 20:30:00,Group C,0,Brazil,China,4.0,0.0,home_win,36750.0
+2002,,Group G,0,Italy,Croatia,1.0,2.0,away_win,36472.0
+2002,2002-06-09 18:00:00,Group C,0,Costa Rica,Turkey,1.0,1.0,draw,42299.0
+2002,2002-06-09 20:30:00,Group H,0,Japan,Russia,1.0,0.0,home_win,66108.0
+2002,2002-06-09 15:30:00,Group G,0,Mexico,Ecuador,2.0,1.0,home_win,45610.0
+2002,2002-06-10 15:30:00,Group D,0,South Korea,USA,1.0,1.0,draw,60778.0
+2002,2002-06-10 20:30:00,Group D,0,Portugal,Poland,4.0,0.0,home_win,31000.0
+2002,2002-06-10 18:00:00,Group H,0,Tunisia,Belgium,1.0,1.0,draw,39700.0
+2002,2002-06-11 15:30:00,Group A,0,Denmark,France,2.0,0.0,home_win,48100.0
+2002,,Group A,0,Senegal,Uruguay,3.0,3.0,draw,33681.0
+2002,2002-06-11 20:30:00,Group E,0,Saudi Arabia,"rn"">Republic of Ireland",0.0,3.0,away_win,65320.0
+2002,2002-06-11 20:30:00,Group E,0,Cameroon,Germany,0.0,2.0,away_win,47085.0
+2002,2002-06-12 15:30:00,Group F,0,Sweden,Argentina,1.0,1.0,draw,45777.0
+2002,2002-06-12 15:30:00,Group F,0,Nigeria,England,0.0,0.0,draw,44864.0
+2002,2002-06-12 20:30:00,Group B,0,Slovenia,Paraguay,1.0,3.0,away_win,30176.0
+2002,2002-06-12 20:30:00,Group B,0,South Africa,Spain,2.0,3.0,away_win,31024.0
+2002,2002-06-13 15:30:00,Group C,0,Costa Rica,Brazil,2.0,5.0,away_win,38524.0
+2002,2002-06-13 15:30:00,Group C,0,Turkey,China,3.0,0.0,home_win,43605.0
+2002,2002-06-13 20:30:00,Group G,0,Ecuador,Croatia,1.0,0.0,home_win,65862.0
+2002,2002-06-13 20:30:00,Group G,0,Mexico,Italy,1.0,1.0,draw,39291.0
+2002,2002-06-14 15:30:00,Group H,0,Tunisia,Japan,0.0,2.0,away_win,45213.0
+2002,2002-06-14 20:30:00,Group D,0,Portugal,South Korea,0.0,1.0,away_win,50239.0
+2002,2002-06-14 20:30:00,Group D,0,Poland,USA,3.0,1.0,home_win,26482.0
+2002,2002-06-14 15:30:00,Group H,0,Belgium,Russia,3.0,2.0,home_win,46640.0
+2002,2002-06-15 20:30:00,Round of 16,1,Denmark,England,0.0,3.0,away_win,40582.0
+2002,2002-06-15 15:30:00,Round of 16,1,Germany,Paraguay,1.0,0.0,home_win,25176.0
+2002,2002-06-16 20:30:00,Round of 16,1,Spain,"rn"">Republic of Ireland",1.0,1.0,draw,38926.0
+2002,2002-06-16 15:30:00,Round of 16,1,Sweden,Senegal,1.0,2.0,away_win,39747.0
+2002,2002-06-17 20:30:00,Round of 16,1,Brazil,Belgium,2.0,0.0,home_win,40440.0
+2002,,Round of 16,1,Mexico,USA,0.0,2.0,away_win,36380.0
+2002,2002-06-18 15:30:00,Round of 16,1,Japan,Turkey,0.0,1.0,away_win,45666.0
+2002,2002-06-18 20:30:00,Round of 16,1,South Korea,Italy,2.0,1.0,home_win,38588.0
+2002,2002-06-21 15:30:00,Quarter-finals,1,England,Brazil,1.0,2.0,away_win,47436.0
+2002,2002-06-21 20:30:00,Quarter-finals,1,Germany,USA,1.0,0.0,home_win,37337.0
+2002,2002-06-22 20:30:00,Quarter-finals,1,Senegal,Turkey,0.0,1.0,away_win,44233.0
+2002,2002-06-22 15:30:00,Quarter-finals,1,Spain,South Korea,0.0,0.0,draw,42114.0
+2002,2002-06-25 20:30:00,Semi-finals,1,Germany,South Korea,1.0,0.0,home_win,65256.0
+2002,2002-06-26 20:30:00,Semi-finals,1,Brazil,Turkey,1.0,0.0,home_win,61058.0
+2002,2002-06-29 20:00:00,Third place,1,South Korea,Turkey,2.0,3.0,away_win,63483.0
+2002,2002-06-30 20:00:00,Final,1,Germany,Brazil,0.0,2.0,away_win,69029.0
+2006,2006-06-09 18:00:00,Group A,0,Germany,Costa Rica,4.0,2.0,home_win,66000.0
+2006,2006-06-09 21:00:00,Group A,0,Poland,Ecuador,0.0,2.0,away_win,52000.0
+2006,2006-06-10 15:00:00,Group B,0,England,Paraguay,1.0,0.0,home_win,48000.0
+2006,2006-06-10 18:00:00,Group B,0,"rn"">Trinidad and Tobago",Sweden,0.0,0.0,draw,62959.0
+2006,2006-06-10 21:00:00,Group C,0,Argentina,C�te d'Ivoire,2.0,1.0,home_win,49480.0
+2006,2006-06-11 15:00:00,Group C,0,"rn"">Serbia and Montenegro",Netherlands,0.0,1.0,away_win,43000.0
+2006,2006-06-11 18:00:00,Group D,0,Mexico,Iran,3.0,1.0,home_win,41000.0
+2006,2006-06-11 21:00:00,Group D,0,Angola,Portugal,0.0,1.0,away_win,45000.0
+2006,2006-06-12 15:00:00,Group F,0,Australia,Japan,3.0,1.0,home_win,46000.0
+2006,2006-06-12 18:00:00,Group E,0,USA,Czech Republic,0.0,3.0,away_win,52000.0
+2006,2006-06-12 21:00:00,Group E,0,Italy,Ghana,2.0,0.0,home_win,43000.0
+2006,2006-06-13 15:00:00,Group G,0,South Korea,Togo,2.0,1.0,home_win,48000.0
+2006,2006-06-13 18:00:00,Group G,0,France,Switzerland,0.0,0.0,draw,52000.0
+2006,2006-06-13 21:00:00,Group F,0,Brazil,Croatia,1.0,0.0,home_win,72000.0
+2006,2006-06-14 15:00:00,Group H,0,Spain,Ukraine,4.0,0.0,home_win,43000.0
+2006,2006-06-14 18:00:00,Group H,0,Tunisia,Saudi Arabia,2.0,2.0,draw,66000.0
+2006,2006-06-14 21:00:00,Group A,0,Germany,Poland,1.0,0.0,home_win,65000.0
+2006,2006-06-15 15:00:00,Group A,0,Ecuador,Costa Rica,3.0,0.0,home_win,50000.0
+2006,2006-06-15 18:00:00,Group B,0,England,"rn"">Trinidad and Tobago",2.0,0.0,home_win,41000.0
+2006,2006-06-15 21:00:00,Group B,0,Sweden,Paraguay,1.0,0.0,home_win,72000.0
+2006,2006-06-16 15:00:00,Group C,0,Argentina,"rn"">Serbia and Montenegro",6.0,0.0,home_win,52000.0
+2006,2006-06-16 18:00:00,Group C,0,Netherlands,C�te d'Ivoire,2.0,1.0,home_win,52000.0
+2006,2006-06-16 21:00:00,Group D,0,Mexico,Angola,0.0,0.0,draw,43000.0
+2006,2006-06-17 15:00:00,Group D,0,Portugal,Iran,2.0,0.0,home_win,48000.0
+2006,2006-06-17 18:00:00,Group E,0,Czech Republic,Ghana,0.0,2.0,away_win,45000.0
+2006,2006-06-17 21:00:00,Group E,0,Italy,USA,1.0,1.0,draw,46000.0
+2006,2006-06-18 15:00:00,Group F,0,Japan,Croatia,0.0,0.0,draw,41000.0
+2006,2006-06-18 18:00:00,Group F,0,Brazil,Australia,2.0,0.0,home_win,66000.0
+2006,2006-06-18 21:00:00,Group G,0,France,South Korea,1.0,1.0,draw,43000.0
+2006,2006-06-19 15:00:00,Group G,0,Togo,Switzerland,0.0,2.0,away_win,65000.0
+2006,2006-06-19 18:00:00,Group H,0,Saudi Arabia,Ukraine,0.0,4.0,away_win,50000.0
+2006,2006-06-19 21:00:00,Group H,0,Spain,Tunisia,3.0,1.0,home_win,52000.0
+2006,2006-06-20 16:00:00,Group A,0,Ecuador,Germany,0.0,3.0,away_win,72000.0
+2006,2006-06-20 16:00:00,Group A,0,Costa Rica,Poland,1.0,2.0,away_win,43000.0
+2006,2006-06-20 21:00:00,Group B,0,Sweden,England,2.0,2.0,draw,45000.0
+2006,2006-06-20 21:00:00,Group B,0,Paraguay,"rn"">Trinidad and Tobago",2.0,0.0,home_win,46000.0
+2006,2006-06-21 16:00:00,Group D,0,Iran,Angola,1.0,1.0,draw,38000.0
+2006,2006-06-21 16:00:00,Group D,0,Portugal,Mexico,2.0,1.0,home_win,52000.0
+2006,2006-06-21 21:00:00,Group C,0,Netherlands,Argentina,0.0,0.0,draw,48000.0
+2006,2006-06-21 21:00:00,Group C,0,C�te d'Ivoire,"rn"">Serbia and Montenegro",3.0,2.0,home_win,66000.0
+2006,2006-06-22 16:00:00,Group E,0,Czech Republic,Italy,0.0,2.0,away_win,50000.0
+2006,2006-06-22 16:00:00,Group E,0,Ghana,USA,2.0,1.0,home_win,41000.0
+2006,2006-06-22 21:00:00,Group F,0,Japan,Brazil,1.0,4.0,away_win,65000.0
+2006,2006-06-22 21:00:00,Group F,0,Croatia,Australia,2.0,2.0,draw,52000.0
+2006,2006-06-23 16:00:00,Group H,0,Ukraine,Tunisia,1.0,0.0,home_win,72000.0
+2006,2006-06-23 16:00:00,Group H,0,Saudi Arabia,Spain,0.0,1.0,away_win,46000.0
+2006,2006-06-23 21:00:00,Group G,0,Togo,France,0.0,2.0,away_win,45000.0
+2006,2006-06-23 21:00:00,Group G,0,Switzerland,South Korea,2.0,0.0,home_win,43000.0
+2006,2006-06-24 17:00:00,Round of 16,1,Germany,Sweden,2.0,0.0,home_win,66000.0
+2006,2006-06-24 21:00:00,Round of 16,1,Argentina,Mexico,2.0,1.0,home_win,43000.0
+2006,2006-06-25 17:00:00,Round of 16,1,England,Ecuador,1.0,0.0,home_win,52000.0
+2006,2006-06-25 21:00:00,Round of 16,1,Portugal,Netherlands,1.0,0.0,home_win,41000.0
+2006,2006-06-26 17:00:00,Round of 16,1,Italy,Australia,1.0,0.0,home_win,46000.0
+2006,2006-06-26 21:00:00,Round of 16,1,Switzerland,Ukraine,0.0,0.0,draw,45000.0
+2006,2006-06-27 17:00:00,Round of 16,1,Brazil,Ghana,3.0,0.0,home_win,65000.0
+2006,2006-06-27 21:00:00,Round of 16,1,Spain,France,1.0,3.0,away_win,43000.0
+2006,2006-06-30 17:00:00,Quarter-finals,1,Germany,Argentina,1.0,1.0,draw,72000.0
+2006,2006-06-30 21:00:00,Quarter-finals,1,Italy,Ukraine,3.0,0.0,home_win,50000.0
+2006,2006-07-01 17:00:00,Quarter-finals,1,England,Portugal,0.0,0.0,draw,52000.0
+2006,2006-07-01 21:00:00,Quarter-finals,1,Brazil,France,0.0,1.0,away_win,48000.0
+2006,2006-07-04 21:00:00,Semi-finals,1,Germany,Italy,0.0,2.0,away_win,65000.0
+2006,2006-07-05 21:00:00,Semi-finals,1,Portugal,France,0.0,1.0,away_win,66000.0
+2006,2006-07-08 21:00:00,Third place,1,Germany,Portugal,3.0,1.0,home_win,52000.0
+2006,2006-07-09 20:00:00,Final,1,Italy,France,1.0,1.0,draw,69000.0
+2010,2010-06-11 16:00:00,Group A,0,South Africa,Mexico,1.0,1.0,draw,84490.0
+2010,2010-06-11 20:30:00,Group A,0,Uruguay,France,0.0,0.0,draw,64100.0
+2010,2010-06-12 13:30:00,Group B,0,South Korea,Greece,2.0,0.0,home_win,31513.0
+2010,2010-06-12 16:00:00,Group B,0,Argentina,Nigeria,1.0,0.0,home_win,55686.0
+2010,2010-06-12 20:30:00,Group C,0,England,USA,1.0,1.0,draw,38646.0
+2010,2010-06-13 13:30:00,Group C,0,Algeria,Slovenia,0.0,1.0,away_win,30325.0
+2010,2010-06-13 16:00:00,Group D,0,Serbia,Ghana,0.0,1.0,away_win,38833.0
+2010,2010-06-13 20:30:00,Group D,0,Germany,Australia,4.0,0.0,home_win,62660.0
+2010,2010-06-14 13:30:00,Group E,0,Netherlands,Denmark,2.0,0.0,home_win,83465.0
+2010,2010-06-14 16:00:00,Group E,0,Japan,Cameroon,1.0,0.0,home_win,30620.0
+2010,2010-06-14 20:30:00,Group F,0,Italy,Paraguay,1.0,1.0,draw,62869.0
+2010,2010-06-15 13:30:00,Group F,0,New Zealand,Slovakia,1.0,1.0,draw,23871.0
+2010,2010-06-15 16:00:00,Group G,0,C�te d'Ivoire,Portugal,0.0,0.0,draw,37034.0
+2010,2010-06-15 20:30:00,Group G,0,Brazil,North Korea,2.0,1.0,home_win,54331.0
+2010,2010-06-16 13:30:00,Group H,0,Honduras,Chile,0.0,1.0,away_win,32664.0
+2010,2010-06-16 16:00:00,Group H,0,Spain,Switzerland,0.0,1.0,away_win,62453.0
+2010,2010-06-16 20:30:00,Group A,0,South Africa,Uruguay,0.0,3.0,away_win,42658.0
+2010,2010-06-17 13:30:00,Group B,0,Argentina,South Korea,4.0,1.0,home_win,82174.0
+2010,2010-06-17 16:00:00,Group B,0,Greece,Nigeria,2.0,1.0,home_win,31593.0
+2010,2010-06-17 20:30:00,Group A,0,France,Mexico,0.0,2.0,away_win,35370.0
+2010,2010-06-18 13:30:00,Group D,0,Germany,Serbia,0.0,1.0,away_win,38294.0
+2010,2010-06-18 16:00:00,Group C,0,Slovenia,USA,2.0,2.0,draw,45573.0
+2010,2010-06-18 20:30:00,Group C,0,England,Algeria,0.0,0.0,draw,64100.0
+2010,2010-06-19 13:30:00,Group E,0,Netherlands,Japan,1.0,0.0,home_win,62010.0
+2010,2010-06-19 16:00:00,Group D,0,Ghana,Australia,1.0,1.0,draw,34812.0
+2010,2010-06-19 20:30:00,Group E,0,Cameroon,Denmark,1.0,2.0,away_win,38074.0
+2010,2010-06-20 13:30:00,Group F,0,Slovakia,Paraguay,0.0,2.0,away_win,26643.0
+2010,2010-06-20 16:00:00,Group F,0,Italy,New Zealand,1.0,1.0,draw,38229.0
+2010,2010-06-20 20:30:00,Group G,0,Brazil,C�te d'Ivoire,3.0,1.0,home_win,84455.0
+2010,2010-06-21 13:30:00,Group G,0,Portugal,North Korea,7.0,0.0,home_win,63644.0
+2010,2010-06-21 16:00:00,Group H,0,Chile,Switzerland,1.0,0.0,home_win,34872.0
+2010,2010-06-21 20:30:00,Group H,0,Spain,Honduras,2.0,0.0,home_win,54386.0
+2010,2010-06-22 16:00:00,Group A,0,Mexico,Uruguay,0.0,1.0,away_win,33425.0
+2010,2010-06-22 16:00:00,Group A,0,France,South Africa,1.0,2.0,away_win,39415.0
+2010,2010-06-22 20:30:00,Group B,0,Nigeria,South Korea,2.0,2.0,draw,61874.0
+2010,2010-06-22 20:30:00,Group B,0,Greece,Argentina,0.0,2.0,away_win,38891.0
+2010,2010-06-23 16:00:00,Group C,0,Slovenia,England,0.0,1.0,away_win,36893.0
+2010,2010-06-23 16:00:00,Group C,0,USA,Algeria,1.0,0.0,home_win,35827.0
+2010,2010-06-23 20:30:00,Group D,0,Ghana,Germany,0.0,1.0,away_win,83391.0
+2010,2010-06-23 20:30:00,Group D,0,Australia,Serbia,2.0,1.0,home_win,37836.0
+2010,2010-06-24 16:00:00,Group F,0,Slovakia,Italy,3.0,2.0,home_win,53412.0
+2010,2010-06-24 16:00:00,Group F,0,Paraguay,New Zealand,0.0,0.0,draw,34850.0
+2010,2010-06-24 20:30:00,Group E,0,Denmark,Japan,1.0,3.0,away_win,27967.0
+2010,2010-06-24 20:30:00,Group E,0,Cameroon,Netherlands,1.0,2.0,away_win,63093.0
+2010,2010-06-25 16:00:00,Group G,0,Portugal,Brazil,0.0,0.0,draw,62712.0
+2010,2010-06-25 16:00:00,Group G,0,North Korea,C�te d'Ivoire,0.0,3.0,away_win,34763.0
+2010,2010-06-25 20:30:00,Group H,0,Chile,Spain,1.0,2.0,away_win,41958.0
+2010,2010-06-25 20:30:00,Group H,0,Switzerland,Honduras,0.0,0.0,draw,28042.0
+2010,2010-06-26 16:00:00,Round of 16,1,Uruguay,South Korea,2.0,1.0,home_win,30597.0
+2010,2010-06-26 20:30:00,Round of 16,1,USA,Ghana,1.0,2.0,away_win,34976.0
+2010,2010-06-27 16:00:00,Round of 16,1,Germany,England,4.0,1.0,home_win,40510.0
+2010,2010-06-27 20:30:00,Round of 16,1,Argentina,Mexico,3.0,1.0,home_win,84377.0
+2010,2010-06-28 16:00:00,Round of 16,1,Netherlands,Slovakia,2.0,1.0,home_win,61962.0
+2010,2010-06-28 20:30:00,Round of 16,1,Brazil,Chile,3.0,0.0,home_win,54096.0
+2010,2010-06-29 16:00:00,Round of 16,1,Paraguay,Japan,0.0,0.0,draw,36742.0
+2010,2010-06-29 20:30:00,Round of 16,1,Spain,Portugal,1.0,0.0,home_win,62955.0
+2010,2010-07-02 16:00:00,Quarter-finals,1,Netherlands,Brazil,2.0,1.0,home_win,40186.0
+2010,2010-07-02 20:30:00,Quarter-finals,1,Uruguay,Ghana,1.0,1.0,draw,84017.0
+2010,2010-07-03 16:00:00,Quarter-finals,1,Argentina,Germany,0.0,4.0,away_win,64100.0
+2010,2010-07-03 20:30:00,Quarter-finals,1,Paraguay,Spain,0.0,1.0,away_win,55359.0
+2010,2010-07-06 20:30:00,Semi-finals,1,Uruguay,Netherlands,2.0,3.0,away_win,62479.0
+2010,2010-07-07 20:30:00,Semi-finals,1,Germany,Spain,0.0,1.0,away_win,60960.0
+2010,2010-07-10 20:30:00,Match for third place,1,Uruguay,Germany,2.0,3.0,away_win,36254.0
+2010,2010-07-11 20:30:00,Final,1,Netherlands,Spain,0.0,1.0,away_win,84490.0
+2014,2014-06-12 17:00:00,Group A,0,Brazil,Croatia,3.0,1.0,home_win,62103.0
+2014,2014-06-13 13:00:00,Group A,0,Mexico,Cameroon,1.0,0.0,home_win,39216.0
+2014,2014-06-13 16:00:00,Group B,0,Spain,Netherlands,1.0,5.0,away_win,48173.0
+2014,2014-06-13 18:00:00,Group B,0,Chile,Australia,3.0,1.0,home_win,40275.0
+2014,2014-06-14 13:00:00,Group C,0,Colombia,Greece,3.0,0.0,home_win,57174.0
+2014,2014-06-14 16:00:00,Group D,0,Uruguay,Costa Rica,1.0,3.0,away_win,58679.0
+2014,2014-06-14 18:00:00,Group D,0,England,Italy,1.0,2.0,away_win,39800.0
+2014,2014-06-14 22:00:00,Group C,0,C�te d'Ivoire,Japan,2.0,1.0,home_win,40267.0
+2014,2014-06-15 13:00:00,Group E,0,Switzerland,Ecuador,2.0,1.0,home_win,68351.0
+2014,2014-06-15 16:00:00,Group E,0,France,Honduras,3.0,0.0,home_win,43012.0
+2014,2014-06-15 19:00:00,Group F,0,Argentina,"rn"">Bosnia and Herzegovina",2.0,1.0,home_win,74738.0
+2014,2014-06-16 13:00:00,Group G,0,Germany,Portugal,4.0,0.0,home_win,51081.0
+2014,2014-06-16 16:00:00,Group F,0,Iran,Nigeria,0.0,0.0,draw,39081.0
+2014,2014-06-16 19:00:00,Group G,0,Ghana,USA,1.0,2.0,away_win,39760.0
+2014,2014-06-17 13:00:00,Group H,0,Belgium,Algeria,2.0,1.0,home_win,56800.0
+2014,2014-06-17 16:00:00,Group A,0,Brazil,Mexico,0.0,0.0,draw,60342.0
+2014,2014-06-17 18:00:00,Group H,0,Russia,South Korea,1.0,1.0,draw,37603.0
+2014,2014-06-18 13:00:00,Group B,0,Australia,Netherlands,2.0,3.0,away_win,42877.0
+2014,2014-06-18 16:00:00,Group B,0,Spain,Chile,0.0,2.0,away_win,74101.0
+2014,2014-06-18 18:00:00,Group A,0,Cameroon,Croatia,0.0,4.0,away_win,39982.0
+2014,2014-06-19 13:00:00,Group C,0,Colombia,C�te d'Ivoire,2.0,1.0,home_win,68748.0
+2014,2014-06-19 16:00:00,Group D,0,Uruguay,England,2.0,1.0,home_win,62575.0
+2014,2014-06-19 19:00:00,Group C,0,Japan,Greece,0.0,0.0,draw,39485.0
+2014,2014-06-20 13:00:00,Group D,0,Italy,Costa Rica,0.0,1.0,away_win,40285.0
+2014,2014-06-20 16:00:00,Group E,0,Switzerland,France,2.0,5.0,away_win,51003.0
+2014,2014-06-20 19:00:00,Group E,0,Honduras,Ecuador,1.0,2.0,away_win,39224.0
+2014,2014-06-21 13:00:00,Group F,0,Argentina,Iran,1.0,0.0,home_win,57698.0
+2014,2014-06-21 16:00:00,Group G,0,Germany,Ghana,2.0,2.0,draw,59621.0
+2014,2014-06-21 18:00:00,Group F,0,Nigeria,"rn"">Bosnia and Herzegovina",1.0,0.0,home_win,40499.0
+2014,2014-06-22 13:00:00,Group H,0,Belgium,Russia,1.0,0.0,home_win,73819.0
+2014,2014-06-22 16:00:00,Group H,0,South Korea,Algeria,2.0,4.0,away_win,42732.0
+2014,2014-06-22 18:00:00,Group G,0,USA,Portugal,2.0,2.0,draw,40123.0
+2014,2014-06-23 13:00:00,Group B,0,Australia,Spain,0.0,3.0,away_win,39375.0
+2014,2014-06-23 13:00:00,Group B,0,Netherlands,Chile,2.0,0.0,home_win,62996.0
+2014,2014-06-23 17:00:00,Group A,0,Cameroon,Brazil,1.0,4.0,away_win,69112.0
+2014,2014-06-23 17:00:00,Group A,0,Croatia,Mexico,1.0,3.0,away_win,41212.0
+2014,2014-06-24 13:00:00,Group D,0,Italy,Uruguay,0.0,1.0,away_win,39706.0
+2014,2014-06-24 13:00:00,Group D,0,Costa Rica,England,0.0,0.0,draw,57823.0
+2014,2014-06-24 16:00:00,Group C,0,Japan,Colombia,1.0,4.0,away_win,40340.0
+2014,2014-06-24 17:00:00,Group C,0,Greece,C�te d'Ivoire,2.0,1.0,home_win,59095.0
+2014,2014-06-25 13:00:00,Group F,0,Nigeria,Argentina,2.0,3.0,away_win,43285.0
+2014,2014-06-25 13:00:00,Group F,0,"rn"">Bosnia and Herzegovina",Iran,3.0,1.0,home_win,48011.0
+2014,2014-06-25 16:00:00,Group E,0,Honduras,Switzerland,0.0,3.0,away_win,40322.0
+2014,2014-06-25 17:00:00,Group E,0,Ecuador,France,0.0,0.0,draw,73749.0
+2014,2014-06-26 13:00:00,Group G,0,USA,Germany,0.0,1.0,away_win,41876.0
+2014,2014-06-26 13:00:00,Group G,0,Portugal,Ghana,2.0,1.0,home_win,67540.0
+2014,2014-06-26 17:00:00,Group H,0,South Korea,Belgium,0.0,1.0,away_win,61397.0
+2014,2014-06-26 17:00:00,Group H,0,Algeria,Russia,1.0,1.0,draw,39311.0
+2014,2014-06-28 13:00:00,Round of 16,1,Brazil,Chile,1.0,1.0,draw,57714.0
+2014,2014-06-28 17:00:00,Round of 16,1,Colombia,Uruguay,2.0,0.0,home_win,73804.0
+2014,2014-06-30 13:00:00,Round of 16,1,France,Nigeria,2.0,0.0,home_win,67882.0
+2014,2014-06-30 17:00:00,Round of 16,1,Germany,Algeria,2.0,1.0,home_win,
+2014,2014-07-04 17:00:00,Quarter-finals,1,Brazil,Colombia,2.0,1.0,home_win,60342.0
+2014,2014-07-04 13:00:00,Quarter-finals,1,France,Germany,0.0,1.0,away_win,74240.0
+2014,2014-07-08 17:00:00,Semi-finals,1,Brazil,Germany,1.0,7.0,away_win,58141.0
+2014,2014-07-12 17:00:00,Play-off for third place,1,Brazil,Netherlands,0.0,3.0,away_win,68034.0
+2014,2014-07-13 16:00:00,Final,1,Germany,Argentina,1.0,0.0,home_win,74738.0
+2014,2014-07-09 17:00:00,Semi-finals,1,Netherlands,Argentina,0.0,0.0,draw,63267.0
+2014,2014-07-05 17:00:00,Quarter-finals,1,Netherlands,Costa Rica,0.0,0.0,draw,51179.0
+2014,2014-07-05 13:00:00,Quarter-finals,1,Argentina,Belgium,1.0,0.0,home_win,68551.0
+2014,2014-06-29 13:00:00,Round of 16,1,Netherlands,Mexico,2.0,1.0,home_win,58817.0
+2014,2014-06-29 17:00:00,Round of 16,1,Costa Rica,Greece,1.0,1.0,draw,41242.0
+2014,2014-07-01 13:00:00,Round of 16,1,Argentina,Switzerland,1.0,0.0,home_win,63255.0
+2014,2014-07-01 17:00:00,Round of 16,1,Belgium,USA,2.0,1.0,home_win,51227.0
+2014,2014-06-28 13:00:00,Round of 16,1,Brazil,Chile,1.0,1.0,draw,57714.0
+2014,2014-06-28 17:00:00,Round of 16,1,Colombia,Uruguay,2.0,0.0,home_win,73804.0
+2014,2014-06-29 13:00:00,Round of 16,1,Netherlands,Mexico,2.0,1.0,home_win,58817.0
+2014,2014-06-29 17:00:00,Round of 16,1,Costa Rica,Greece,1.0,1.0,draw,41242.0
+2014,2014-06-30 13:00:00,Round of 16,1,France,Nigeria,2.0,0.0,home_win,67882.0
+2014,2014-06-30 17:00:00,Round of 16,1,Germany,Algeria,2.0,1.0,home_win,
+2014,2014-07-01 13:00:00,Round of 16,1,Argentina,Switzerland,1.0,0.0,home_win,63255.0
+2014,2014-07-01 17:00:00,Round of 16,1,Belgium,USA,2.0,1.0,home_win,51227.0
+2014,2014-07-04 13:00:00,Quarter-finals,1,France,Germany,0.0,1.0,away_win,74240.0
+2014,2014-07-04 17:00:00,Quarter-finals,1,Brazil,Colombia,2.0,1.0,home_win,60342.0
+2014,2014-07-05 13:00:00,Quarter-finals,1,Argentina,Belgium,1.0,0.0,home_win,68551.0
+2014,2014-07-05 17:00:00,Quarter-finals,1,Netherlands,Costa Rica,0.0,0.0,draw,51179.0
+2014,2014-07-08 17:00:00,Semi-finals,1,Brazil,Germany,1.0,7.0,away_win,58141.0
+2014,2014-07-09 17:00:00,Semi-finals,1,Netherlands,Argentina,0.0,0.0,draw,63267.0
+2014,2014-07-12 17:00:00,Play-off for third place,1,Brazil,Netherlands,0.0,3.0,away_win,68034.0
+2014,2014-07-13 16:00:00,Final,1,Germany,Argentina,1.0,0.0,home_win,74738.0
